@@ -1,0 +1,54 @@
+body{
+	background-color: black;
+	font-family: 'Lato', sans-serif;
+}
+
+.content{
+	background-color: white;
+  	width: 150px;
+  	border-radius: 5px;
+}
+
+.filme-content{
+	margin: 5px;
+}
+
+.filme-image{
+	width: 140px;
+	margin-bottom: 8px;
+	transition-duration: 0.3s;
+}
+
+.filme-image:hover{
+	filter: opacity(70%);
+	cursor: pointer;
+
+}
+
+.filme-nome{
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 3px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.filme-nota{
+	font-size: 14px;
+}
+
+.filme-ano{
+	font-size: 14px;
+	float: right;
+}
+
+.filme-more{
+	text-align: center;
+	background-color: white;
+	border-radius: 0 0 5px 5px;
+}
+.filme-more:hover{
+	background-color: gray;
+	cursor: pointer;
+}
