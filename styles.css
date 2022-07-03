@@ -3,6 +3,10 @@ body{
 	font-family: 'Lato', sans-serif;
 }
 
+.content-main{
+	text-align: center;
+}
+
 .content{
 	background-color: white;
   	width: 150px;
