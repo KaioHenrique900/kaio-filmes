@@ -4,7 +4,7 @@ body{
 }
 
 .content-main{
-	display: flex;
+	display: inline;
 	justify-content: center;
 }
 
