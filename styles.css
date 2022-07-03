@@ -7,6 +7,7 @@ body{
 	background-color: white;
   	width: 150px;
   	border-radius: 5px;
+  	float: left;
 }
 
 .filme-content{
