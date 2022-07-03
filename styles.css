@@ -4,8 +4,16 @@ body{
 }
 
 .content-main{
-	display: inline;
-	justify-content: center;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+}
+
+.content-main h1{
+	color: white;
+	margin-left: 3px;
+	margin-bottom: 12px;
 }
 
 .content{
@@ -14,6 +22,7 @@ body{
   	border-radius: 5px;
   	float: left;
   	margin: 3px;
+  	
 }
 
 .filme-content{
