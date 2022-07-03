@@ -8,6 +8,7 @@ body{
   	width: 150px;
   	border-radius: 5px;
   	float: left;
+  	margin: 3px;
 }
 
 .filme-content{
