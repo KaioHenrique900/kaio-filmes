@@ -68,3 +68,12 @@ body{
 	background-color: gray;
 	cursor: pointer;
 }
+
+@media (max-width: 768px){
+    .content{
+        width: 100px;
+    }
+    .filme-image{
+        width: 90px;
+    }
+}
