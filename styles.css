@@ -70,9 +70,9 @@ body{
 
 @media all and (max-width: 1000px){
     .content{
-        width: 110px;
+        width: 115px;
     }
     .filme-image{
-        width: 100px;
+        width: 105px;
     }
 }
