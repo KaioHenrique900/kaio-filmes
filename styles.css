@@ -68,14 +68,14 @@ body{
 	cursor: pointer;
 }
 
-@media all and (max-width: 1600px){
+@media all and (max-width: 1000px){
 	body{
 		background-color: white;
 	}
     .content{
-        width: 60vh;
+        width: 60px;
     }
     .filme-image{
-        width: 50vh;
+        width: 50px;
     }
 }
