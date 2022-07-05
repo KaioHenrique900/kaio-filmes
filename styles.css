@@ -69,6 +69,9 @@ body{
 }
 
 @media screen and (max-width: 992px){
+	body{
+		background-color: white;
+	}
     .content{
         width: 60px;
     }
