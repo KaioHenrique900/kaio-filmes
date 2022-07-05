@@ -68,7 +68,7 @@ body{
 	cursor: pointer;
 }
 
-@media all and (max-width: 992px){
+@media all and (max-width: 1600px){
 	body{
 		background-color: white;
 	}
