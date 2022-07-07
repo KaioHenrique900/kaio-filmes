@@ -16,6 +16,17 @@ body{
 	margin-bottom: 12px;
 }
 
+.row{
+	overflow: auto;
+	white-space: nowrap;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .content{
 	background-color: white;
   	width: 130px;
