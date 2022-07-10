@@ -23,19 +23,19 @@
 
 		<div class="mySlides fade">
 		  <div class="numbertext">1 / 3</div>
-		  <img src="images/once-upon-a-time-in-hollywood-2.jpg" style="width:100%">
+		  <img class="slide-img" src="images/once-upon-a-time-in-hollywood-2.jpg">
 		  <div class="text">Era Uma Vez Em... HollyWood</div>
 		</div>
 
 		<div class="mySlides fade">
 		  <div class="numbertext">2 / 3</div>
-		  <img src="images/clube-da-luta-horizontal.jpg" style="width:100%">
+		  <img class="slide-img" src="images/clube-da-luta-horizontal.jpg">
 		  <div class="text">Clube Da Luta</div>
 		</div>
 
 		<div class="mySlides fade">
 		  <div class="numbertext">3 / 3</div>
-		  <img src="images/cidade-de-deus-horizontal.jpg" style="width:100%">
+		  <img class="slide-img" src="images/cidade-de-deus-horizontal.jpg">
 		  <div class="text">Cidade De Deus</div>
 		</div>
 
