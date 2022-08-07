@@ -22,21 +22,21 @@
 		<div class="slideshow-container">
 
 		<div class="mySlides fade">
-		  <div class="numbertext">1 / 3</div>
-		  <img class="slide-img" src="images/once-upon-a-time-in-hollywood-2.jpg">
-		  <div class="text">Era Uma Vez Em... HollyWood</div>
+		  <img class="slide-img" src="images/drive-horizontal.jpg">
+		  <div class="movieTitle">Drive</div>
+		  <div class="movieSubtitle">2011</div>
 		</div>
 
 		<div class="mySlides fade">
-		  <div class="numbertext">2 / 3</div>
-		  <img class="slide-img" src="images/clube-da-luta-horizontal.jpg">
-		  <div class="text">Clube Da Luta</div>
+		  <img class="slide-img" src="images/o-grande-lebowski-horizontal.jpg">
+		  <div class="movieTitle">O Grande Lebowski</div>
+		  <div class="movieSubtitle">1998</div>
 		</div>
 
 		<div class="mySlides fade">
-		  <div class="numbertext">3 / 3</div>
-		  <img class="slide-img" src="images/cidade-de-deus-horizontal.jpg">
-		  <div class="text">Cidade De Deus</div>
+		  <img class="slide-img" src="images/django-livre-horizontal.jpg">
+		  <div class="movieTitle">Django Livre</div>
+		  <div class="movieSubtitle">2012</div>
 		</div>
 
 		</div>
@@ -62,10 +62,10 @@
 			  slideIndex++;
 			  if (slideIndex > slides.length) {slideIndex = 1}    
 			  for (i = 0; i < dots.length; i++) {
-			    dots[i].className = dots[i].className.replace(" active", "");
+			    dots[i].className = dots[i].className.replace(" dotActive", "");
 			  }
 			  slides[slideIndex-1].style.display = "block";  
-			  dots[slideIndex-1].className += " active";
+			  dots[slideIndex-1].className += " dotActive";
 			  setTimeout(showSlides, 5000); // Change image every 2 seconds
 			}
 		</script>
