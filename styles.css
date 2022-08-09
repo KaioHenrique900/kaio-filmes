@@ -231,9 +231,11 @@ body{
     }
     .movieTitle {
 	  	font-size: 30px;
+	  	top: 50%;
 	}
 
 	.movieSubtitle{
 	  	font-size: 15px;
+	  	top: 65%;
 	}
 }
