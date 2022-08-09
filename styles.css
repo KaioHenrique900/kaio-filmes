@@ -85,7 +85,7 @@ body{
 
 .movieSubtitle{
 	color: #f2f2f2;
-  	font-size: 23px;
+  	font-size: 25px;
   	top: 60%;
   	left: 0;
 }
@@ -227,6 +227,13 @@ body{
         width: 113px;
     }
     .slideshow-container{
-    	height: auto;
+    	height: 25%;
     }
+    .movieTitle {
+	  	font-size: 30px;
+	}
+
+	.movieSubtitle{
+	  	font-size: 15px;
+	}
 }
