@@ -226,4 +226,7 @@ body{
     .filme-image{
         width: 113px;
     }
+    .slideshow-container{
+    	height: auto;
+    }
 }
