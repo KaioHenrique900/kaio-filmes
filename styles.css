@@ -180,6 +180,8 @@ body{
 
 .filme-image{
 	width: 120px;
+	height: 175px;
+	object-fit: cover;
 	margin-bottom: 8px;
 	transition-duration: 0.3s;
 }
@@ -223,6 +225,7 @@ body{
         width: 123px;
     }
     .filme-image{
+    	height: 145;
         width: 113px;
     }
     .slideshow-container{

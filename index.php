@@ -12,8 +12,7 @@
 		<div class="topnav" id="myTopnav">
 		  <a href="#home" class="active">Home</a>
 		  <a href="#news">Gêneros</a>
-		  <a href="#contact">Contact</a>
-		  <a href="#about">About</a>
+		  <a href="#about">Sobre</a>
 		  <a href="javascript:void(0);" class="icon" onclick="responsiveTopNav()">
 		    <i class="fa fa-bars"></i>
 		  </a>
@@ -186,6 +185,16 @@
 						<div class="filme-nome">Ilha dos Cachorros</div>
 						<span class="filme-nota">None</span>
 						<span class="filme-ano">2018</span>
+					</div>
+					<div class="filme-more"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://kaioneziofilmes.cincopa.com/watch/A4HAcLOLOO68!AYED2u125n6W" target="_blank"><img class="filme-image" src="images/red.jpg"></a>
+						<div class="filme-nome">Red: Crescer É Uma Fera</div>
+						<span class="filme-nota">None</span>
+						<span class="filme-ano">2022</span>
 					</div>
 					<div class="filme-more"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
