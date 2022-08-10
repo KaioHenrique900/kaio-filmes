@@ -165,6 +165,16 @@
 					<div class="filme-more"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://kaioneziofilmes.cdn.spotlightr.com/watch/MTI3OTA0Nw=="><img class="filme-image" src="images/tetlamt.jpg"></a>
+						<div class="filme-nome">Tudo Em Todo Lugar Ao Mesmo Tempo</div>
+						<span class="filme-nota">10/10</span>
+						<span class="filme-ano">2022</span>
+					</div>
+					<div class="filme-more"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
 			</div>
 
 		</div>
