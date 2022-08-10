@@ -22,7 +22,7 @@ body{
 }
 
 .topnav a:hover {
-  color: gray;
+  color: lightgray;
 }
 
 .topnav a.active {

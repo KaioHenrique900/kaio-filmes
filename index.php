@@ -11,7 +11,7 @@
 
 		<div class="topnav" id="myTopnav">
 		  <a href="#home" class="active">Home</a>
-		  <a href="#news">News</a>
+		  <a href="#news">Gêneros</a>
 		  <a href="#contact">Contact</a>
 		  <a href="#about">About</a>
 		  <a href="javascript:void(0);" class="icon" onclick="responsiveTopNav()">
@@ -21,23 +21,23 @@
 
 		<div class="slideshow-container">
 
-		<div class="mySlides fade">
+		<a href="https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!A8LDGqkCX6Ie" target="_blank"><div class="mySlides fade">
 		  <img class="slide-img" src="images/drive-horizontal.jpg">
 		  <div class="movieTitle">Drive</div>
 		  <div class="movieSubtitle">2011</div>
-		</div>
+		</div></a>
 
-		<div class="mySlides fade">
+		<a href="https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AoGDCmkMBMne" target="_blank"><div class="mySlides fade">
 		  <img class="slide-img" src="images/o-grande-lebowski-horizontal.jpg">
 		  <div class="movieTitle">O Grande Lebowski</div>
 		  <div class="movieSubtitle">1998</div>
-		</div>
+		</div></a>
 
-		<div class="mySlides fade">
+		<a href="https://domolal955.cincopa.com/watch/A4HAcLOLOO68!A8ED_mUpJjvW" target="_blank"><div class="mySlides fade">
 		  <img class="slide-img" src="images/django-livre-horizontal.jpg">
 		  <div class="movieTitle">Django Livre</div>
 		  <div class="movieSubtitle">2012</div>
-		</div>
+		</div></a>
 
 		</div>
 		<br>
@@ -77,7 +77,7 @@
 			<div class="row">
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AEFDgmUFT-oL"><img class="filme-image" src="images/2001-uma-odisseia-no-espaco.jpg"></a>
+						<a href="https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AEFDgmUFT-oL" target="_blank"><img class="filme-image" src="images/2001-uma-odisseia-no-espaco.jpg"></a>
 						<div class="filme-nome">2001: Uma Odisséia No Espaço</div>
 						<span class="filme-nota">10/10</span>
 						<span class="filme-ano">1969</span>
@@ -87,7 +87,7 @@
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://domolal955.cincopa.com/watch/A4HAcLOLOO68!AwCDbmEwYXZE"><img class="filme-image" src="images/cidade-de-deus.jpg"></a>
+						<a href="https://domolal955.cincopa.com/watch/A4HAcLOLOO68!AwCDbmEwYXZE" target="_blank"><img class="filme-image" src="images/cidade-de-deus.jpg"></a>
 						<div class="filme-nome">Cidade de Deus</div>
 						<span class="filme-nota">9/10</span>
 						<span class="filme-ano">2002</span>
@@ -97,7 +97,7 @@
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AUEDErUQVruA"><img class="filme-image" src="images/clube-da-luta.jpg"></a>
+						<a href="https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AUEDErUQVruA" target="_blank"><img class="filme-image" src="images/clube-da-luta.jpg"></a>
 						<div class="filme-nome">Clube da Luta</div>
 						<span class="filme-nota">10/10</span>
 						<span class="filme-ano">1999</span>
@@ -107,7 +107,7 @@
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://domolal955.cincopa.com/watch/A4HAcLOLOO68!A8ED_mUpJjvW"><img class="filme-image" src="images/django-livre.jpg"></a>
+						<a href="https://domolal955.cincopa.com/watch/A4HAcLOLOO68!A8ED_mUpJjvW" target="_blank"><img class="filme-image" src="images/django-livre.jpg"></a>
 						<div class="filme-nome">Django Livre</div>
 						<span class="filme-nota">9/10</span>
 						<span class="filme-ano">2012</span>
@@ -177,9 +177,21 @@
 
 			</div>
 
+			<h1>Animações</h1>
+
+			<div class="row">
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://scottsilva921.wistia.com/medias/fbdquiess2" target="_blank"><img class="filme-image" src="images/ilha-dos-cachorros.jpg"></a>
+						<div class="filme-nome">Ilha dos Cachorros</div>
+						<span class="filme-nota">None</span>
+						<span class="filme-ano">2018</span>
+					</div>
+					<div class="filme-more"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
 		</div>
-
-
+                        
 	</body>
 
 </html>
