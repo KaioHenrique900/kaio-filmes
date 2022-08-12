@@ -220,28 +220,6 @@ body{
 	cursor: pointer;
 }
 
-@media all and (max-width: 1000px){
-    .content{
-        width: 123px;
-    }
-    .filme-image{
-    	height: 164.7px;
-        width: 113px;
-    }
-    .slideshow-container{
-    	height: 28%;
-    }
-    .movieTitle {
-	  	font-size: 30px;
-	  	top: 50%;
-	}
-
-	.movieSubtitle{
-	  	font-size: 15px;
-	  	top: 65%;
-	}
-}
-
 /* The Modal (background) */
 .modal {
 	font-size: 18px;
@@ -340,4 +318,34 @@ body{
 
 .fa{
 	color: yellow;
+}
+
+@media all and (max-width: 1000px){
+    .content{
+        width: 123px;
+    }
+    .filme-image{
+    	height: 164.7px;
+        width: 113px;
+    }
+    .slideshow-container{
+    	height: 28%;
+    }
+    .movieTitle {
+	  	font-size: 30px;
+	  	top: 50%;
+	}
+
+	.movieSubtitle{
+	  	font-size: 15px;
+	  	top: 65%;
+	}
+
+	.modal-content{
+		width: 75%;
+	}
+
+	.modal-img{
+		height: 200px;
+	}
 }
