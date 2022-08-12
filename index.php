@@ -116,7 +116,7 @@
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!A8LDGqkCX6Ie"><img class="filme-image" src="images/drive.jpg"></a>
+						<a href="https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!A8LDGqkCX6Ie" target="_blank"><img class="filme-image" src="images/drive.jpg"></a>
 						<div class="filme-nome">Drive</div>
 						<span class="filme-nota">8.5/10</span>
 						<span class="filme-ano">2011</span>
@@ -126,7 +126,7 @@
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://scottsilva921.cincopa.com/watch/A4HAcLOLOO68!AsID8hk7PIz5"><img class="filme-image" src="images/era-uma-vez-em-hollywood.jpg"></a>
+						<a href="https://scottsilva921.cincopa.com/watch/A4HAcLOLOO68!AsID8hk7PIz5" target="_blank"><img class="filme-image" src="images/era-uma-vez-em-hollywood.jpg"></a>
 						<div class="filme-nome">Era Uma Vez Em Hollywood...</div>
 						<span class="filme-nota">9/10</span>
 						<span class="filme-ano">2019</span>
@@ -136,7 +136,7 @@
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://brumbram20.cincopa.com/watch/AwGA8sOtprRN"><img class="filme-image" src="images/faca-a-coisa-certa.jpg"></a>
+						<a href="https://brumbram20.cincopa.com/watch/AwGA8sOtprRN" target="_blank"><img class="filme-image" src="images/faca-a-coisa-certa.jpg"></a>
 						<div class="filme-nome">Faça A Coisa Certa</div>
 						<span class="filme-nota">9.5/10</span>
 						<span class="filme-ano">1990</span>
@@ -146,7 +146,7 @@
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://ficeg17545.cincopa.com/watch/A4HAcLOLOO68!A8CDAK1ucplu"><img class="filme-image" src="images/meupai.jpg"></a>
+						<a href="https://ficeg17545.cincopa.com/watch/A4HAcLOLOO68!A8CDAK1ucplu" target="_blank"><img class="filme-image" src="images/meupai.jpg"></a>
 						<div class="filme-nome">Meu Pai</div>
 						<span class="filme-nota">10/10</span>
 						<span class="filme-ano">2020</span>
@@ -156,7 +156,7 @@
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AoGDCmkMBMne"><img class="filme-image" src="images/o-grande-lebowski.jpg"></a>
+						<a href="https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AoGDCmkMBMne" target="_blank"><img class="filme-image" src="images/o-grande-lebowski.jpg"></a>
 						<div class="filme-nome">o Grande Lebowski</div>
 						<span class="filme-nota">9/10</span>
 						<span class="filme-ano">2001</span>
@@ -166,7 +166,7 @@
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://scottsilva921.wistia.com/medias/mgkzaqltkc"><img class="filme-image" src="images/tetlamt.jpg"></a>
+						<a href="https://scottsilva921.wistia.com/medias/mgkzaqltkc" target="_blank"><img class="filme-image" src="images/tetlamt.jpg"></a>
 						<div class="filme-nome">Tudo Em Todo Lugar Ao Mesmo Tempo</div>
 						<span class="filme-nota">10/10</span>
 						<span class="filme-ano">2022</span>
@@ -200,6 +200,55 @@
 				</div>
 
 		</div>
+
+		<button id="myBtn">Open Modal</button>
+
+		<!-- The Modal -->
+		<div id="myModal" class="modal">
+
+		  <!-- Modal content -->
+		  <div class="modal-content">
+		    <span class="close">&times;</span>
+		    <span class="modal-nota"><span class="fa fa-star"></span>9/10</span>
+		    <img class="modal-img" src="images/o-grande-lebowski-horizontal.jpg">
+		    <div class="modal-body">
+		      <center><h2 class="modal-titulo">O Grande Lebowski</h2></center>  <!-- Modificar o center -->
+		      <span class="modal-ano">Ano: 2022</span>
+			  <span class="modal-duracao">Duração: 1h40</span>
+			  <p>Direção: Coens Brother</p>
+			  <p>Sinopse: Jeff Lebowski é um boa vida que acaba se envolvendo com a história de um milionário com o mesmo nome. O ricaço pede ajuda a Jeff para entregar o dinheiro do resgate de sua esposa, que foi sequestrada por bandidos perigosos.</p>
+		    </div>
+		  </div>
+
+		</div>
+
+		<script>
+		// Get the modal
+		var modal = document.getElementById("myModal");
+
+		// Get the button that opens the modal
+		var btn = document.getElementById("myBtn");
+
+		// Get the <span> element that closes the modal
+		var span = document.getElementsByClassName("close")[0];
+
+		// When the user clicks the button, open the modal 
+		btn.onclick = function() {
+		  modal.style.display = "block";
+		}
+
+		// When the user clicks on <span> (x), close the modal
+		span.onclick = function() {
+		  modal.style.display = "none";
+		}
+
+		// When the user clicks anywhere outside of the modal, close it
+		window.onclick = function(event) {
+		  if (event.target == modal) {
+		    modal.style.display = "none";
+		  }
+		}
+		</script>
                         
 	</body>
 
