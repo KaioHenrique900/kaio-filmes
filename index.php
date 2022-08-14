@@ -157,16 +157,16 @@
 				<div class="content">
 					<div class="filme-content">
 						<a href="https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AoGDCmkMBMne" target="_blank"><img class="filme-image" src="images/o-grande-lebowski.jpg"></a>
-						<div class="filme-nome">o Grande Lebowski</div>
+						<div class="filme-nome">O Grande Lebowski</div>
 						<span class="filme-nota">9/10</span>
 						<span class="filme-ano">2001</span>
 					</div>
-					<div class="filme-more"><div class="material-symbols-outlined">expand_more</div></div>
+					<div id="myBtn" class="filme-more"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://scottsilva921.wistia.com/medias/mgkzaqltkc" target="_blank"><img class="filme-image" src="images/tetlamt.jpg"></a>
+						<a href="https://kaioneziofilmes.cincopa.com/watch/A4HAcLOLOO68!AcDDgx19JUUT" target="_blank"><img class="filme-image" src="images/tetlamt.jpg"></a>
 						<div class="filme-nome">Tudo Em Todo Lugar Ao Mesmo Tempo</div>
 						<span class="filme-nota">10/10</span>
 						<span class="filme-ano">2022</span>
@@ -201,19 +201,17 @@
 
 		</div>
 
-		<button id="myBtn">Open Modal</button>
-
 		<!-- The Modal -->
 		<div id="myModal" class="modal">
 
 		  <!-- Modal content -->
-		  <div class="modal-content">
+		  <div id="modalcontent" class="modal-content">
 		    <span class="close">&times;</span>
-		    <span class="modal-nota"><span class="fa fa-star"></span>9/10</span>
-		    <img class="modal-img" src="images/o-grande-lebowski-horizontal.jpg">
+		    <span class="modal-nota"><span class="fa fa-star"></span> 10/10</span>
+		    <a href="https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AoGDCmkMBMne" target="_blank"><img class="modal-img" src="images/o-grande-lebowski-horizontal.jpg"></a>
 		    <div class="modal-body">
 		      <center><h2 class="modal-titulo">O Grande Lebowski</h2></center>  <!-- Modificar o center -->
-		      <span class="modal-ano">Ano: 2022</span>
+		      <span class="modal-ano">Ano: 1998</span>
 			  <span class="modal-duracao">Duração: 1h40</span>
 			  <p>Direção: Coens Brother</p>
 			  <p>Sinopse: Jeff Lebowski é um boa vida que acaba se envolvendo com a história de um milionário com o mesmo nome. O ricaço pede ajuda a Jeff para entregar o dinheiro do resgate de sua esposa, que foi sequestrada por bandidos perigosos.</p>
@@ -234,7 +232,7 @@
 
 		// When the user clicks the button, open the modal 
 		btn.onclick = function() {
-		  modal.style.display = "block";
+		  modal.style = "display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;";
 		}
 
 		// When the user clicks on <span> (x), close the modal
