@@ -1,5 +1,6 @@
 <?php
 	include 'header.php';
+	include 'get_filmes.php'
 ?>
 	<head>
 
@@ -181,7 +182,7 @@
 			<div class="row">
 				<div class="content">
 					<div class="filme-content">
-						<a href="https://scottsilva921.wistia.com/medias/fbdquiess2" target="_blank"><img class="filme-image" src="images/ilha-dos-cachorros.jpg"></a>
+						<a href="https://kaioneziofilmes.cincopa.com/watch/A4HAcLOLOO68!AgBDmwVQPwUG" target="_blank"><img class="filme-image" src="images/ilha-dos-cachorros.jpg"></a>
 						<div class="filme-nome">Ilha dos Cachorros</div>
 						<span class="filme-nota">None</span>
 						<span class="filme-ano">2018</span>
