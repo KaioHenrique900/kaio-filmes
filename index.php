@@ -1,6 +1,5 @@
 <?php
 	include 'header.php';
-	include 'get_filmes.php';
 ?>
 	<head>
 
