@@ -360,45 +360,6 @@ a{
 	color: yellow;
 }
 
-@media all and (max-width: 1000px){
-    .content{
-        width: 123px;
-    }
-    .filme-image{
-    	height: 164.7px;
-        width: 113px;
-    }
-    .slideshow-container{
-    	height: 28%;
-    }
-    .movieTitle {
-	  	font-size: 30px;
-	  	top: 50%;
-	}
-
-	.movieSubtitle{
-	  	font-size: 15px;
-	  	top: 65%;
-	}
-
-	.modal-content{
-		width: 75%;
-	}
-
-	.modal-img{
-		height: 200px;
-	}
-
-	.modal-info{
-		font-size: 13px;
-		padding: 5px;
-		padding-top: 10px;
-	}
-
-	.close-info{
-		top: 1px;
-	}
-}
 
 /*Filme Tela*/
 .header-ft{
@@ -521,4 +482,46 @@ a{
 .ad1 .title-product:hover{
 	color: gray;
 	cursor: pointer;
+}
+
+
+/*Responsive*/
+@media all and (max-width: 1000px){
+    .content{
+        width: 123px;
+    }
+    .filme-image{
+    	height: 164.7px;
+        width: 113px;
+    }
+    .slideshow-container{
+    	height: 28%;
+    }
+    .movieTitle {
+	  	font-size: 30px;
+	  	top: 50%;
+	}
+
+	.movieSubtitle{
+	  	font-size: 15px;
+	  	top: 65%;
+	}
+
+	.modal-content{
+		width: 75%;
+	}
+
+	.modal-img{
+		height: 200px;
+	}
+
+	.modal-info{
+		font-size: 14px;
+		padding: 5px;
+		padding-top: 11px;
+	}
+
+	.close-info{
+		top: 1px;
+	}
 }
