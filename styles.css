@@ -391,11 +391,12 @@ a{
 
 	.modal-info{
 		font-size: 13px;
-		padding-top: 3px;
+		padding: 5px;
+		padding-top: 10px;
 	}
 
 	.close-info{
-		top: 5px;
+		top: 1px;
 	}
 }
 
