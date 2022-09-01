@@ -388,6 +388,10 @@ a{
 	.modal-img{
 		height: 200px;
 	}
+
+	.modal-info{
+		font-size: 13px;
+	}
 }
 
 /*Filme Tela*/
