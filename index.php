@@ -9,10 +9,21 @@
 
 	<body>
 
+		<div id="myModal-info" class="modal-info">
+
+		  <!-- Modal content -->
+		  <div id="modalInfoContent" class="modal-info-content">
+		    <span class="close-info">&times;</span>
+			  <p id="modalInfoP"><i class="fa fa-info-circle"></i> Todos os anúncios presentes neste site são de programas de afiliados que o desenvolvedor faz parte.</p>
+		  </div>
+
+		</div>
+
 		<div class="topnav" id="myTopnav">
 		  <a href="#home" class="active">Home</a>
-		  <a href="#news">Gêneros</a>
-		  <a href="#about">Sobre</a>
+		  <a href="#generos">Gêneros <i class='fa fa-angle-down'></i></a>
+		  <a href="#destaques">Destaques <i class='fa fa-angle-down'></i></a>
+		  <a href="#patrocinadores">Patrocinadores <i class='fa fa-angle-down'></i></a>
 		  <a href="javascript:void(0);" class="icon" onclick="responsiveTopNav()">
 		    <i class="fa fa-bars"></i>
 		  </a>
@@ -70,6 +81,12 @@
 		</script>
 		
 		<div class="content-main">
+			<center>
+				<div class="ad1" >
+					<a href="https://amzn.to/3q6hspa" target="_blank"><img src="https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SY355_.jpg" ></a>
+					<a href="https://amzn.to/3q6hspa" class="title-product" target="_blank">Echo Dot (4ª Geração): Smart Speaker com Alexa | Música, informação e Casa Inteligente - Cor Preta</a>
+				</div>
+			</center>
 
 			<h1>Melhores Filmes</h1>
 
@@ -199,7 +216,18 @@
 					<div class="filme-more" onclick="showModal('https://kaioneziofilmes.cincopa.com/watch/A4HAcLOLOO68!AYED2u125n6W', 'Red: Crescer É Uma Fera', 'None', '2022', '1h40','images/red-horizontal.jpg', 'Domee Shi', 'Uma menina de 13 anos começa a se transformar em um panda vermelho gigante sempre que fica animada.')"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
+			</div>
+
+			<center>
+				<div class="ad1">
+					<a href="https://amzn.to/3cFN0it" target="_blank"><img src="https://m.media-amazon.com/images/I/51degAt5CFL._AC_SX569_.jpg" ></a>
+					<a href="https://amzn.to/3cFN0it" class="title-product" target="_blank">Fire TV Stick | Streaming em Full HD com Alexa | Com Controle Remoto por Voz com Alexa (inclui comandos de TV)</a>
+				</div>
+			</center>
+
 		</div>
+
+		<div class="footer">Desenvolvido por <a href="https://www.instagram.com/kaionezio/" target="_blank">Kaio Nezio <i class="fa fa-external-link-square"></i></a></div>
 
 		<!-- The Modal -->
 		<div id="myModal" class="modal">
@@ -223,12 +251,14 @@
 		<script>
 		// Get the modal
 		var modal = document.getElementById("myModal");
+		var modal2 = document.getElementById("myModal-info");
 
 		// Get the button that opens the modal
 		var btn = document.getElementById("myBtn");
 
 		// Get the <span> element that closes the modal
 		var span = document.getElementsByClassName("close")[0];
+		var span2 = document.getElementsByClassName("close-info")[0];
 
 		var linkFilme; var nomeFilme; var notaFilme; var anoFilme; var duracaoFilme; var imageFilme;
 		function showModal(linkFilme, nomeFilme, notaFilme, anoFilme, duracaoFilme, imageFilme, direcaoFilme, sinopseFilme){
@@ -241,13 +271,13 @@
 			//Titulo:
 			document.getElementById('nomeFilme').innerHTML = nomeFilme;
 			//Ano:
-			document.getElementById('anoFilme').innerHTML = "Ano: " + anoFilme;
+			document.getElementById('anoFilme').innerHTML = "<b>Ano:</b> " + anoFilme;
 			//Duracao:
-			document.getElementById('duracaoFilme').innerHTML = "Duração: " + duracaoFilme;
+			document.getElementById('duracaoFilme').innerHTML = "<b>Duração:</b> " + duracaoFilme;
 			//Direcao:
-			document.getElementById('direcaoFilme').innerHTML = "Direção: " + direcaoFilme;
+			document.getElementById('direcaoFilme').innerHTML = "<b>Direção:</b> " + direcaoFilme;
 			//Sinopse:
-			document.getElementById('sinopseFilme').innerHTML = "Sinopse: " + sinopseFilme;
+			document.getElementById('sinopseFilme').innerHTML = "<b>Sinopse:</b> " + sinopseFilme;
 			modal.style = "display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex;";
 		}
 
@@ -256,14 +286,19 @@
 		  modal.style.display = "none";
 		}
 
+		span2.onclick = function() {
+		  modal2.style.display = "none";
+		}
+
 		// When the user clicks anywhere outside of the modal, close it
 		window.onclick = function(event) {
 		  if (event.target == modal) {
 		    modal.style.display = "none";
+		    modal2.style.display = "none"
 		  }
 		}
 		</script>
-                        
+    
 	</body>
 
 </html>
