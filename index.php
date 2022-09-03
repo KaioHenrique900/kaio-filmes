@@ -105,10 +105,10 @@
 					<div class="filme-content">
 						<a href="https://domolal955.cincopa.com/watch/A4HAcLOLOO68!AwCDbmEwYXZE" target="_blank"><img class="filme-image" src="images/cidade-de-deus.jpg"></a>
 						<div class="filme-nome">Cidade de Deus</div>
-						<span class="filme-nota">9/10</span>
+						<span class="filme-nota">9.5/10</span>
 						<span class="filme-ano">2002</span>
 					</div>
-					<div class="filme-more" onclick="showModal('https://domolal955.cincopa.com/watch/A4HAcLOLOO68!AwCDbmEwYXZE', 'Cidade de Deus', '9', '2002', '2h10','images/cidade-de-deus-horizontal.jpg', 'Kátia Lund, Fernando Meirelles', 'Buscapé é um jovem pobre, negro e sensível, que cresce em um universo de muita violência. Ele vive na Cidade de Deus, favela carioca conhecida por ser um dos locais mais violentos do Rio. Amedrontado com a possibilidade de se tornar um bandido, Buscapé é salvo de seu destino por causa de seu talento como fotógrafo, o qual permite que siga carreira na profissão. É por meio de seu olhar atrás da câmera que ele analisa o dia a dia da favela em que vive, onde a violência aparenta ser infinita.')"><div class="material-symbols-outlined">expand_more</div></div>
+					<div class="filme-more" onclick="showModal('https://domolal955.cincopa.com/watch/A4HAcLOLOO68!AwCDbmEwYXZE', 'Cidade de Deus', '9.5', '2002', '2h10','images/cidade-de-deus-horizontal.jpg', 'Kátia Lund, Fernando Meirelles', 'Buscapé é um jovem pobre, negro e sensível, que cresce em um universo de muita violência. Ele vive na Cidade de Deus, favela carioca conhecida por ser um dos locais mais violentos do Rio. Amedrontado com a possibilidade de se tornar um bandido, Buscapé é salvo de seu destino por causa de seu talento como fotógrafo, o qual permite que siga carreira na profissão. É por meio de seu olhar atrás da câmera que ele analisa o dia a dia da favela em que vive, onde a violência aparenta ser infinita.')"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
 				<div class="content">
