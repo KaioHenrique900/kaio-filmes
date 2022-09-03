@@ -3,7 +3,7 @@
 ?>
 	<head>
 
-		<title>Kaio Movies</title>
+		<title>Nezzo Filmes</title>
 
 	</head>
 
