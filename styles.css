@@ -9,7 +9,7 @@ a{
 }
 
 .modal-info{
-	background-color: salmon;
+	background-color: #fa3344;
 	text-align: center;
 	padding: 1px;
 	color: white;
@@ -523,5 +523,13 @@ a{
 
 	.close-info{
 		top: 1px;
+	}
+
+	.title-product{
+		font-size: 14px;
+	}
+
+	.ad1 img{
+		height: 80px;
 	}
 }
