@@ -125,10 +125,10 @@
 					<div class="filme-content">
 						<a href="https://domolal955.cincopa.com/watch/A4HAcLOLOO68!A8ED_mUpJjvW" target="_blank"><img class="filme-image" src="images/django-livre.jpg"></a>
 						<div class="filme-nome">Django Livre</div>
-						<span class="filme-nota">9/10</span>
+						<span class="filme-nota">9.5/10</span>
 						<span class="filme-ano">2012</span>
 					</div>
-					<div class="filme-more" onclick="showModal('https://domolal955.cincopa.com/watch/A4HAcLOLOO68!A8ED_mUpJjvW', 'Django Livre', '9', '2012', '2h45','images/django-livre-horizontal.jpg', 'Quentin Tarantino', 'No sul dos Estados Unidos, o ex-escravo Django faz uma aliança inesperada com o caçador de recompensas Schultz para caçar os criminosos mais procurados do país e resgatar sua esposa de um fazendeiro que força seus escravos a participar de competições mortais.')"><div class="material-symbols-outlined">expand_more</div></div>
+					<div class="filme-more" onclick="showModal('https://domolal955.cincopa.com/watch/A4HAcLOLOO68!A8ED_mUpJjvW', 'Django Livre', '9.5', '2012', '2h45','images/django-livre-horizontal.jpg', 'Quentin Tarantino', 'No sul dos Estados Unidos, o ex-escravo Django faz uma aliança inesperada com o caçador de recompensas Schultz para caçar os criminosos mais procurados do país e resgatar sua esposa de um fazendeiro que força seus escravos a participar de competições mortais.')"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
 				<div class="content">
@@ -155,10 +155,10 @@
 					<div class="filme-content">
 						<a href="https://brumbram20.cincopa.com/watch/AwGA8sOtprRN" target="_blank"><img class="filme-image" src="images/faca-a-coisa-certa.jpg"></a>
 						<div class="filme-nome">Faça A Coisa Certa</div>
-						<span class="filme-nota">9.5/10</span>
+						<span class="filme-nota">9/10</span>
 						<span class="filme-ano">1990</span>
 					</div>
-					<div class="filme-more" onclick="showModal('https://brumbram20.cincopa.com/watch/AwGA8sOtprRN', 'Faça A Coisa Certa', '9.5', '1990', '2h','images/faça-a-coisa-certa-horizontal.jpg', 'Spike Lee', 'Salvatore Sal Fragione é dono de uma pizzaria italiana no Brooklyn que tem uma parede cheia de nomes de artistas famosos. Um dos moradores do bairro, Buggin Out, fica indignado ao ver que na parede só há nomes de artistas italianos. Ele acha que um estabelecimento localizado no Brooklyn deveria ter o nome de atores afrodescendentes, mas Sal não concorda. A parede se torna, então, motivo de ódio para Buggin Out e outros moradores do bairro.')"><div class="material-symbols-outlined">expand_more</div></div>
+					<div class="filme-more" onclick="showModal('https://brumbram20.cincopa.com/watch/AwGA8sOtprRN', 'Faça A Coisa Certa', '9', '1990', '2h','images/faça-a-coisa-certa-horizontal.jpg', 'Spike Lee', 'Salvatore Sal Fragione é dono de uma pizzaria italiana no Brooklyn que tem uma parede cheia de nomes de artistas famosos. Um dos moradores do bairro, Buggin Out, fica indignado ao ver que na parede só há nomes de artistas italianos. Ele acha que um estabelecimento localizado no Brooklyn deveria ter o nome de atores afrodescendentes, mas Sal não concorda. A parede se torna, então, motivo de ódio para Buggin Out e outros moradores do bairro.')"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
 				<div class="content">
