@@ -25,7 +25,7 @@
 		  <a href="#destaques">Destaques <i class='fa fa-angle-down'></i></a>
 		  <a href="#patrocinadores">Patrocinadores <i class='fa fa-angle-down'></i></a>
 		  <a href="javascript:void(0);" class="icon" onclick="responsiveTopNav()">
-		    <i class="fa fa-bars"></i>
+		    <i id="topnavControl" class="fa fa-bars"></i>
 		  </a>
 		</div>
 
