@@ -196,6 +196,17 @@
 			<h1>Animações</h1>
 
 			<div class="row">
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://brumbram20.cincopa.com/watch/A4HAcLOLOO68!AgHDyw0fq18k" target="_blank"><img class="filme-image" src="images/homem-aranha-no-aranhaverso.jpg"></a>
+						<div class="filme-nome">Homem-Aranha No Aranhaverso</div>
+						<span class="filme-nota">10/10</span>
+						<span class="filme-ano">2018</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://brumbram20.cincopa.com/watch/A4HAcLOLOO68!AgHDyw0fq18k', 'Homem-Aranha No Aranhaverso', '10', '2018', '1h40','images/homemaranha-no-aranhaverso-horizontal.jpg', ' Peter Ramsey, Bob Persichetti, Rodney Rothman', 'Após ser atingido por uma teia radioativa, Miles Morales, um jovem negro do Brooklyn, se torna o Homem-Aranha, inspirado no legado do já falecido Peter Parker. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói por baixo de um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
 				<div class="content">
 					<div class="filme-content">
 						<a href="https://kaioneziofilmes.cincopa.com/watch/A4HAcLOLOO68!AgBDmwVQPwUG" target="_blank"><img class="filme-image" src="images/ilha-dos-cachorros.jpg"></a>
@@ -208,6 +219,16 @@
 
 				<div class="content">
 					<div class="filme-content">
+						<a href="https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AUMDznUDu-oS" target="_blank"><img class="filme-image" src="images/o-fantastico-sr-raposo.jpg"></a>
+						<div class="filme-nome">O Fantástico Sr. Raposo</div>
+						<span class="filme-nota">8.5/10</span>
+						<span class="filme-ano">2009</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AUMDznUDu-oS', 'O Fantástico Sr. Raposo', '8.5', '2009', '1h27','images/o-fantastico-sr-raposo-horizontal.jpg', 'Wes Anderson', 'Após 12 anos de felicidade bucólica, o Sr. Raposo descumpre a promessa que fez à esposa e invade as fazendas dos vizinhos Boggis, Bunce e Bean. Ceder aos seus instintos animais coloca em perigo não somente o seu casamento, mas também a vida de sua família e seus amigos. Quando os fazendeiros montam uma armadilha para o Sr. Raposo, ele tem que confiar na sua astúcia natural para vencer o oponente.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
 						<a href="https://kaioneziofilmes.cincopa.com/watch/A4HAcLOLOO68!AYED2u125n6W" target="_blank"><img class="filme-image" src="images/red.jpg"></a>
 						<div class="filme-nome">Red: Crescer É Uma Fera</div>
 						<span class="filme-nota">None</span>
@@ -216,12 +237,27 @@
 					<div class="filme-more" onclick="showModal('https://kaioneziofilmes.cincopa.com/watch/A4HAcLOLOO68!AYED2u125n6W', 'Red: Crescer É Uma Fera', 'None', '2022', '1h40','images/red-horizontal.jpg', 'Domee Shi', 'Uma menina de 13 anos começa a se transformar em um panda vermelho gigante sempre que fica animada.')"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://scottsilva921.cincopa.com/watch/AcHAltu0tQtF" target="_blank"><img class="filme-image" src="images/shrek.jpg"></a>
+						<div class="filme-nome">Shrek</div>
+						<span class="filme-nota">10/10</span>
+						<span class="filme-ano">2001</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://scottsilva921.cincopa.com/watch/AcHAltu0tQtF', 'Shrek', '10', '2001', '1h29','images/shrek-horizontal.jpg', 'Andrew Adamson, Vicky Jenson', 'Com a intenção de salvar sua casa, um ogro e seu burro fazem um acordo com um Lorde maldoso para resgatar uma linda princesa.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
 			</div>
 
 			<center>
 				<div class="ad1">
 					<a href="https://amzn.to/3cFN0it" target="_blank"><img src="https://m.media-amazon.com/images/I/51degAt5CFL._AC_SX569_.jpg" ></a>
 					<a href="https://amzn.to/3cFN0it" class="title-product" target="_blank">Fire TV Stick | Streaming em Full HD com Alexa | Com Controle Remoto por Voz com Alexa (inclui comandos de TV)</a>
+				</div>
+
+				<div class="ad1" style="margin-top: 3px;">
+					<a href="https://amzn.to/3QapnMI" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51kYAhF49CL._SX352_BO1,204,203,200_.jpg" ></a>
+					<a href="https://amzn.to/3QapnMI" class="title-product" target="_blank">Drácula - Dark Edition: Edição limitada para caçadores de vampiros Capa dura</a>
 				</div>
 			</center>
 
