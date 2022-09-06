@@ -208,7 +208,7 @@
 
 			<h1>Animações</h1>
 
-			<div class="row">
+			<div class="row row-responsive">
 
 				<div class="content">
 					<div class="filme-content">

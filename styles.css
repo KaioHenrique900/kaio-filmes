@@ -585,4 +585,8 @@ a{
 	.ad1 img{
 		height: 80px;
 	}
+
+	.row-responsive{
+		margin-bottom: 15px;
+	}
 }
