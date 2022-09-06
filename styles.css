@@ -566,13 +566,20 @@ a{
 		font-size: 22px;
 	}
 
-	.title-product{
-		font-size: 14px;
+	.dot{
+		margin-bottom: 8px;
 	}
 
 	.ad1{
+		margin-top: 5px;
 		min-width: 100px;
-		max-width: 100px;
+		max-width: 350px;
+		display: table;
+	}
+
+	.ad1 .title-product{
+		font-size: 14px;
+		padding-top: 0px;
 	}
 
 	.ad1 img{
