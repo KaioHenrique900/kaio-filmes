@@ -34,7 +34,6 @@ a{
 
 /*Top Nav*/
 .topnav {
-  overflow: hidden;
   position: absolute;
   z-index: 1;
 }
@@ -53,6 +52,23 @@ a{
   color: lightgray;
 }
 
+.dropdown {
+  float: left;
+  overflow: ;
+}
+
+.dropdown .dropbtn {
+  cursor: pointer;
+  font-size: 17px;  
+  border: none;
+  outline: none;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
 .topnav a.active {
   color: goldenrod;
 }
@@ -61,8 +77,30 @@ a{
   display: none;
 }
 
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 @media screen and (max-width: 600px) {
-  .topnav a {display: none;}
+  .topnav a, .topnav .dropbtn {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
@@ -76,7 +114,7 @@ a{
     right: 0;
     top: 0;
   }
-  .topnav.responsive a {
+  .topnav.responsive a, .topnav.responsive .dropbtn{
     float: none;
     display: block;
     text-align: left;
@@ -459,11 +497,11 @@ a{
 .ad1{
 	margin-top: 30px;
 	background-color: white;
-	padding: 5px;
-	min-width: 100px;
+	padding: 8px;
+	min-width: 400px;
 	max-width: 400px;
-	display: table;
-	text-align: center;
+	display: inline-block;
+	text-align: left;
 	border-radius: 3px;
 }
 .ad1 img{
@@ -475,6 +513,8 @@ a{
 .ad1 .title-product{
 	display: table-cell;
 	vertical-align: middle;
+	padding-top: 15px;
+	padding-left: 5px;
 	font-weight: bold;
 	color: black;
 }

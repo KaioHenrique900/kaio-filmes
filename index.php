@@ -20,10 +20,18 @@
 		</div>
 
 		<div class="topnav" id="myTopnav">
-		  <a href="#home" class="active">Home</a>
-		  <a href="#generos">Gêneros <i class='fa fa-angle-down'></i></a>
-		  <a href="#destaques">Destaques <i class='fa fa-angle-down'></i></a>
-		  <a href="#patrocinadores">Patrocinadores <i class='fa fa-angle-down'></i></a>
+		  	<a href="index.php" class="active">Home</a>
+		  	<a href="#generos">Gêneros <i class='fa fa-angle-down'></i></a>
+		  	<a href="#destaques">Destaques <i class='fa fa-angle-down'></i></a>
+
+		  	<div class="dropdown">
+			  <button href="#patrocinadores" class="dropbtn">Patrocinadores <i class='fa fa-angle-down'></i></button>
+			  <div class="dropdown-content">
+			  	<a href="associados-amazon.php" target="_blank">Associados Amazon</a>
+	    		<a href="https://www.magazinevoce.com.br/magazinekaiosilvanezio/" target="_blank">Meu Parceiro Magalu</a>
+			  </div>
+			</div>
+
 		  <a href="javascript:void(0);" class="icon" onclick="responsiveTopNav()">
 		    <i id="topnavControl" class="fa fa-bars"></i>
 		  </a>
@@ -85,6 +93,11 @@
 				<div class="ad1" >
 					<a href="https://amzn.to/3q6hspa" target="_blank"><img src="https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SY355_.jpg" ></a>
 					<a href="https://amzn.to/3q6hspa" class="title-product" target="_blank">Echo Dot (4ª Geração): Smart Speaker com Alexa | Música, informação e Casa Inteligente - Cor Preta</a>
+				</div>
+
+				<div class="ad1" >
+					<a href="https://amzn.to/3cPjRBE" target="_blank"><img src="https://m.media-amazon.com/images/I/71-k35bQj4L._AC_SL1500_.jpg" ></a>
+					<a href="https://amzn.to/3cPjRBE" class="title-product" target="_blank">PlayStation®5 + Horizon Forbidden West</a>
 				</div>
 			</center>
 
@@ -247,6 +260,26 @@
 					<div class="filme-more" onclick="showModal('https://scottsilva921.cincopa.com/watch/AcHAltu0tQtF', 'Shrek', '10', '2001', '1h29','images/shrek-horizontal.jpg', 'Andrew Adamson, Vicky Jenson', 'Com a intenção de salvar sua casa, um ogro e seu burro fazem um acordo com um Lorde maldoso para resgatar uma linda princesa.')"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AIGDbrkeXO-F" target="_blank"><img class="filme-image" src="images/shrek2.jpg"></a>
+						<div class="filme-nome">Shrek 2</div>
+						<span class="filme-nota">9.5/10</span>
+						<span class="filme-ano">2004</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://scottsilva921.cincopa.com/watch/AcHAltu0tQtF', 'Shrek 2', '9.5', '2004', '1h33','images/shrek2-horizontal.jpg', 'Andrew Adamson, Kelly Asbury', 'Shrek e Fiona acabaram de voltar da lua de mel e vivem felizes em sua casa no pântano. O casal recebe um convite dos pais da princesa, que querem conhecer o novo genro, para um jantar no castelo. Eles ficaram sabendo que Fiona havia se casado com o seu verdadeiro amor, mas o que eles ainda não sabem é que este amor é um ogro mal-educado de mais de 300 quilos, que conta com um burro falante como melhor amigo.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AUDDqukX2cfF" target="_blank"><img class="filme-image" src="images/shrek3.jpg"></a>
+						<div class="filme-nome">Shrek 3</div>
+						<span class="filme-nota">8.5/10</span>
+						<span class="filme-ano">2007</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AUDDqukX2cfF', 'Shrek 3', '8.5', '2007', '1h33','images/shrek3-horizontal.jpg', 'Chris Miller, Raman Hui', 'Doente em estado terminal, o rei Harold chama Fiona e Shrek para uma conversa sobre a sucessão de seu reinado e o futuro do povo em Tão Tão Distante. Como o genro se recusa a assumir o trono e prefere continuar sua pacata vida no pântano, a única saída é encontrar o primo Artur. Na companhia do Burro e do Gato de Botas, Shrek se encarrega da missão e sai em busca do parente que pode ser seu substituto no trono. Mas, antes de cumprir a tarefa, enfrenta as armações do ambicioso Príncipe Encantado.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
 			</div>
 
 			<center>
@@ -255,7 +288,7 @@
 					<a href="https://amzn.to/3cFN0it" class="title-product" target="_blank">Fire TV Stick | Streaming em Full HD com Alexa | Com Controle Remoto por Voz com Alexa (inclui comandos de TV)</a>
 				</div>
 
-				<div class="ad1" style="margin-top: 3px;">
+				<div class="ad1">
 					<a href="https://amzn.to/3QapnMI" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51kYAhF49CL._SX352_BO1,204,203,200_.jpg" ></a>
 					<a href="https://amzn.to/3QapnMI" class="title-product" target="_blank">Drácula - Dark Edition: Edição limitada para caçadores de vampiros Capa dura</a>
 				</div>
