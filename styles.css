@@ -572,8 +572,8 @@ a{
 
 	.ad1{
 		margin-top: 5px;
-		min-width: 100px;
-		max-width: 350px;
+		min-width: 95%;
+		max-width: 95%;
 		display: table;
 	}
 
