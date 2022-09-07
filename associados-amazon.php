@@ -24,8 +24,8 @@
 <body>
 
 	<div class="w3-bar nav">
-		<img src="images-associados/associados-amazon2.png" class="img-associados">
-	  	<a href="index.php" class="w3-bar-item w3-button w3-text-white">Nezzo Filmes</a>
+		<img src="images-associados/associados-amazon2.png" class="img-associados w3-right">
+	  	<a href="index.php" class="w3-bar-item w3-button w3-text-white back">Nezzo Filmes</a>
 	  	<!--<a href="primevideo.php" class="w3-bar-item w3-button w3-text-white w3-right">Prime Video</a>
 	  	<a href="#" class="w3-bar-item w3-button w3-text-white w3-right">Link 2</a>
 	  	<a href="#" class="w3-bar-item w3-button w3-text-white w3-right">Link 3</a>-->
@@ -183,9 +183,9 @@
 		</div></a>
 	</div>
 
-	<div class="image_prime">
+	<!--<div class="image_prime">
 		<img src="images-associados/coda.jpg">
-	</div>
+	</div>-->
 
 </body>
 
