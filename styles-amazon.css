@@ -131,4 +131,8 @@ body{
 	.image_prime{
 		width: 50px;
 	}
+
+	.img_produto{
+		height: 160px;
+	}
 }
