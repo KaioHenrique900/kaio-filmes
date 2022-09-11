@@ -21,31 +21,19 @@
 
 		<div class="topnav" id="myTopnav">
 		  	<a href="index.php" class="active">Home</a>
-		  	
+
 		  	<div class="dropdown">
 		  		<button class="dropbtn">Gêneros <i class='fa fa-angle-down'></i></button>
 		  		<div class="dropdown-content">
 			  		<a href="#">Ação</a>
 	    			<a href="#">Animação</a>
-	    			<a href="#">Comédia</a>
-	    			<a href="#">Drama</a>
-	    			<a href="#">Fantasia e Ficção Científica</a>
-	    			<a href="#">Romance</a>
-	    			<a href="#">Suspense e Terror</a>
 			  	</div>
 			</div>
 
-		  	<div class="dropdown">
-		  		<button class="dropbtn">Destaques <i class='fa fa-angle-down'></i></button>
-		  		<div class="dropdown-destaques-content">
-			  		<div class="destaques-item"><img src="images/tetlamt-horizontal.jpg" class="destaques-img"><div class="destaques-title">Melhores Filmes de 2022</div></div>
-			  		<div class="destaques-item"><img src="images/red-horizontal.jpg" class="destaques-img"><div class="destaques-title">Animações da Disney e Pixar</div></div>
-	    			<div class="destaques-item"><img src="images/shrek-horizontal.jpg" class="destaques-img"><span class="destaques-title">Animações da DreamWorks</span></div>
-			  	</div>
-			</div>
+		  	<a href="#destaques">Destaques <i class='fa fa-angle-down'></i></a>
 
 		  	<div class="dropdown">
-			  <button href="#patrocinadores" class="dropbtn">Patrocinadores <i class='fa fa-angle-down'></i></button>
+			  <button class="dropbtn">Patrocinadores <i class='fa fa-angle-down'></i></button>
 			  <div class="dropdown-content">
 			  	<a href="associados-amazon.php" target="_blank">Associados Amazon</a>
 	    		<a href="https://www.magazinevoce.com.br/magazinekaiosilvanezio/" target="_blank">Meu Parceiro Magalu</a>
@@ -331,7 +319,7 @@
 		      <span id="anoFilme" class="modal-ano"></span>
 			  <span id="duracaoFilme" class="modal-duracao"></span>
 			  <p id="direcaoFilme"></p>
-			  <p id="sinopseFilme" class="modal-sinopse"></p>
+			  <p id="sinopseFilme"></p>
 		    </div>
 		  </div>
 

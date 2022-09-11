@@ -49,7 +49,7 @@ a{
 }
 
 .topnav a:hover {
-  color: lightgray;
+  color: goldenrod;
 }
 
 .dropdown {
@@ -79,24 +79,66 @@ a{
 
 .dropdown-content {
   display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
 }
 
 .dropdown-content a {
   float: none;
-  color: black;
+  color: white;
   padding: 12px 16px;
-  text-decoration: none;
   display: block;
   text-align: left;
 }
 
+.dropdown-destaques-content{
+	display: none;
+  	gap: 5px 5px;
+  	grid-template-columns: auto auto auto;
+  	padding: 5px;
+}
+
+.dropdown-content, .dropdown-destaques-content{
+	position: absolute;
+  	background-color: #212121;
+  	color: white;
+  	min-width: 160px;
+  	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  	z-index: 1;
+}
+
+.destaques-item{
+  	padding: 0px;
+  	font-size: 15px;
+  	text-align: center;
+}
+
+.destaques-title{
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.destaques-img{
+	object-fit: cover;
+	max-height: 140px;
+	width: 280px;
+	filter: grayscale(50%);
+	transition-duration: 0.3s;
+}
+
+.destaques-item:hover .destaques-img{
+	filter: grayscale(10%);
+	cursor: pointer;
+}
+
+.destaques-item:hover{
+	color: goldenrod;
+}
+
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.dropdown:hover .dropdown-destaques-content {
+  display: grid;
 }
 
 @media screen and (max-width: 600px) {
@@ -392,6 +434,10 @@ a{
 .modal-nota:hover{
 	cursor: pointer;
 	background-color: #ff2e16;
+}
+
+.modal-sinopse{
+	text-align: justify;
 }
 
 .fa-star{
