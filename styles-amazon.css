@@ -51,9 +51,15 @@ body{
     transform: translate(-50%, -50%);
 }
 
+.title-row{
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+}
+
 .container_produtos1{
 	overflow: auto;
-	margin-bottom: 10px;
+	margin-bottom: 40px;
 	display: flex;
 	overflow-x: scroll;
 }

@@ -97,8 +97,9 @@
 
 	</div>
 
+	<h1 class="title-row">Produtos em Destaque</h1>
 	<div class="container_produtos1">
-		<a href="https://www.amazon.com.br/Fone-Ouvido-JBL-Intra-Auricular-Preto/dp/B01MG62Z5M?_encoding=UTF8&pd_rd_w=v2fVB&content-id=amzn1.sym.717e1082-1b26-481d-94d5-2a1a46904215&pf_rd_p=717e1082-1b26-481d-94d5-2a1a46904215&pf_rd_r=KHKPB3BB4E9V7GSMRDZK&pd_rd_wg=STZUU&pd_rd_r=36a3b826-48b5-4d7f-94f5-c762cde57462&th=1&linkCode=ll1&tag=kaionezio-20&linkId=dce26af364b5fa240a8d3dac97100b73&language=pt_BR&ref_=as_li_ss_tl" target="_blank"><div class="w3-card-4 w3-white card_produto">
+		<a href="https://amzn.to/3B7n7QN" target="_blank"><div class="w3-card-4 w3-white card_produto">
 
 		    <div class="w3-container w3-center">
 		      <img class="img_produto" src="https://m.media-amazon.com/images/I/7160q6CR0oL._AC_SX425_.jpg" alt="Avatar">
@@ -110,7 +111,7 @@
 
 		</div></a>
 
-		<a href="https://www.amazon.com.br/Novo-Echo-Dot-4%C2%AA-gera%C3%A7%C3%A3o/dp/B084DWCZY6?_encoding=UTF8&pd_rd_w=sOken&content-id=amzn1.sym.717e1082-1b26-481d-94d5-2a1a46904215&pf_rd_p=717e1082-1b26-481d-94d5-2a1a46904215&pf_rd_r=2GZE6XN0NGQQSXADQMTH&pd_rd_wg=PZOSA&pd_rd_r=d1ff6942-0798-44f9-a654-1a7a01f66fe2&linkCode=ll1&tag=kaionezio-20&linkId=9249091e2f1f2719a552c2e9b3c10b20&language=pt_BR&ref_=as_li_ss_tl" target="_blank"><div class="w3-card-4 w3-white card_produto">
+		<a href="https://amzn.to/3U3b0Nq" target="_blank"><div class="w3-card-4 w3-white card_produto">
 
 		    <div class="w3-container w3-center">
 		      <img class="img_produto" src="https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SY355_.jpg" alt="Avatar">
@@ -122,7 +123,7 @@
 
 		</div></a>
 
-		<a href="https://www.amazon.com.br/gp/product/B08C1K6LB2?pf_rd_r=2GZE6XN0NGQQSXADQMTH&pf_rd_p=bd4ed9ad-d973-4c4f-8048-f2a06fad1c3d&pd_rd_r=d1ff6942-0798-44f9-a654-1a7a01f66fe2&pd_rd_w=VTYTM&pd_rd_wg=PZOSA&linkCode=ll1&tag=kaionezio-20&linkId=f5fb2a16de3e359ba3445c5165e46cbb&language=pt_BR&ref_=as_li_ss_tl" target="_blank"><div class="w3-card-4 w3-white card_produto">
+		<a href="https://amzn.to/3RXzyFs" target="_blank"><div class="w3-card-4 w3-white card_produto">
 
 		    <div class="w3-container w3-center">
 		      <img class="img_produto" src="https://m.media-amazon.com/images/I/51degAt5CFL._AC_SX569_.jpg" alt="Avatar">
@@ -134,7 +135,7 @@
 
 		</div></a>
 
-		<a href="https://www.amazon.com.br/Dr%C3%A1cula-Bram-Stoker/dp/8566636236?_encoding=UTF8&pd_rd_w=QqrUP&content-id=amzn1.sym.df4ac1cc-1218-4e71-aa2e-283172bce35c&pf_rd_p=df4ac1cc-1218-4e71-aa2e-283172bce35c&pf_rd_r=2GZE6XN0NGQQSXADQMTH&pd_rd_wg=PZOSA&pd_rd_r=d1ff6942-0798-44f9-a654-1a7a01f66fe2&linkCode=ll1&tag=kaionezio-20&linkId=966ebdb4640d6ae490b177a301377758&language=pt_BR&ref_=as_li_ss_tl" target="_blank"><div class="w3-card-4 w3-white card_produto">
+		<a href="https://amzn.to/3L2Oxfn" target="_blank"><div class="w3-card-4 w3-white card_produto">
 
 		    <div class="w3-container w3-center">
 		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/51kYAhF49CL._SX352_BO1,204,203,200_.jpg" alt="Avatar">
@@ -146,7 +147,7 @@
 
 		</div></a>
 
-		<a href="https://www.amazon.com.br/gp/product/B07FQK1TS9?pf_rd_r=2GZE6XN0NGQQSXADQMTH&pf_rd_p=bd4ed9ad-d973-4c4f-8048-f2a06fad1c3d&pd_rd_r=d1ff6942-0798-44f9-a654-1a7a01f66fe2&pd_rd_w=VTYTM&pd_rd_wg=PZOSA&linkCode=ll1&tag=kaionezio-20&linkId=1e41642ac12051eacb52898796520b45&language=pt_BR&ref_=as_li_ss_tl" target="_blank"><div class="w3-card-4 w3-white card_produto">
+		<a href="https://amzn.to/3U1EkUh" target="_blank"><div class="w3-card-4 w3-white card_produto">
 
 		    <div class="w3-container w3-center">
 		      <img class="img_produto" src="https://m.media-amazon.com/images/I/61X0ISBpD-L._AC_SX679_.jpg" alt="Avatar">
@@ -158,7 +159,7 @@
 
 		</div></a>
 
-		<a href="https://www.amazon.com.br/Maleta-Ferramentas-Sparta-Kit-13564/dp/B076N2S8FV?pd_rd_w=5lq7E&content-id=amzn1.sym.d0678f90-6ba8-4016-a488-d64fcc14d544&pf_rd_p=d0678f90-6ba8-4016-a488-d64fcc14d544&pf_rd_r=KEPPACVF0H7AX50DEE7Y&pd_rd_wg=so5VS&pd_rd_r=4b0afc05-75f0-4bef-a4d7-5f972828e446&pd_rd_i=B076N2S8FV&psc=1&linkCode=ll1&tag=kaionezio-20&linkId=a7b83420a814a04c18c61d44a5fe9dd6&language=pt_BR&ref_=as_li_ss_tl" target="_blank"><div class="w3-card-4 w3-white card_produto">
+		<a href="https://amzn.to/3L9krXp" target="_blank"><div class="w3-card-4 w3-white card_produto">
 
 		    <div class="w3-container w3-center">
 		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/71r4YBz43GL.__AC_SX300_SY300_QL70_ML2_.jpg" alt="Avatar">
@@ -170,7 +171,7 @@
 
 		</div></a>
 
-		<a href="https://www.amazon.com.br/Notebook-Lenovo-Ultrafino-i3-10110U-82BS000JBR/dp/B09J7RX44K?pd_rd_w=5lq7E&content-id=amzn1.sym.d0678f90-6ba8-4016-a488-d64fcc14d544&pf_rd_p=d0678f90-6ba8-4016-a488-d64fcc14d544&pf_rd_r=KEPPACVF0H7AX50DEE7Y&pd_rd_wg=so5VS&pd_rd_r=4b0afc05-75f0-4bef-a4d7-5f972828e446&pd_rd_i=B09J7RX44K&psc=1&linkCode=ll1&tag=kaionezio-20&linkId=2680c02a2fc803cf1cf9539eaa568bbc&language=pt_BR&ref_=as_li_ss_tl" target="_blank"><div class="w3-card-4 w3-white card_produto">
+		<a href="https://amzn.to/3qwKQow" target="_blank"><div class="w3-card-4 w3-white card_produto">
 
 		    <div class="w3-container w3-center">
 		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/51pIlgIyjZL.__AC_SX300_SY300_QL70_ML2_.jpg" alt="Avatar">
@@ -178,6 +179,95 @@
 
 		    <div class="w3-container w3-center w3-black">
 		      <p>Notebook Lenovo Ultrafino IdeaPad 3i i3-10110U 4GB 256 GB SSD Windows 11 15.6" 82BS000JBR Prata</p>
+		    </div>
+
+		</div></a>
+	</div>
+
+	<!-- Next Line-->
+
+	<h1 class="title-row">Livros</h1>
+	<div class="container_produtos1">
+		<a href="https://amzn.to/3qquIVP" target="_blank"><div class="w3-card-4 w3-white card_produto">
+
+		    <div class="w3-container w3-center">
+		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/812gHuYZN+L.jpg" alt="Avatar">
+		    </div>
+
+		    <div class="w3-container w3-center w3-black">
+		      <p>Box Obras De George Orwell + Pôster + Marcadores + Cards</p>
+		    </div>
+
+		</div></a>
+
+		<a href="https://amzn.to/3RTHis9" target="_blank"><div class="w3-card-4 w3-white card_produto">
+
+		    <div class="w3-container w3-center">
+		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/51kYAhF49CL._SX352_BO1,204,203,200_.jpg" alt="Avatar">
+		    </div>
+
+		    <div class="w3-container w3-center w3-black">
+		      <p>Drácula - Dark Edition: Edição limitada para caçadores de vampiros</p>
+		    </div>
+
+		</div></a>
+
+		<a href="https://amzn.to/3d2hCuT" target="_blank"><div class="w3-card-4 w3-white card_produto">
+
+		    <div class="w3-container w3-center">
+		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/61NSQSDR2+S.jpg" alt="Avatar">
+		    </div>
+
+		    <div class="w3-container w3-center w3-black">
+		      <p>A divina comédia - Box com 3 livros</p>
+		    </div>
+
+		</div></a>
+
+		<a href="https://amzn.to/3L3FA5e" target="_blank"><div class="w3-card-4 w3-white card_produto">
+
+		    <div class="w3-container w3-center">
+		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/71XQQ1AV6EL.jpg" alt="Avatar">
+		    </div>
+
+		    <div class="w3-container w3-center w3-black">
+		      <p>Box Terríveis Mestres (3 livros + pôster + suplemento)</p>
+		    </div>
+
+		</div></a>
+
+		<a href="https://amzn.to/3eGxNhV" target="_blank"><div class="w3-card-4 w3-white card_produto">
+
+		    <div class="w3-container w3-center">
+		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/51pWrJSOTcL.jpg" alt="Avatar">
+		    </div>
+
+		    <div class="w3-container w3-center w3-black">
+		      <p>Clube da Luta - Edição Slim</p>
+		    </div>
+
+		</div></a>
+
+		<a href="https://amzn.to/3L6uCMu" target="_blank"><div class="w3-card-4 w3-white card_produto">
+
+		    <div class="w3-container w3-center">
+		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/71mFnG3Bn3L.jpg" alt="Avatar">
+		    </div>
+
+		    <div class="w3-container w3-center w3-black">
+		      <p>A Metamorfose Capa dura</p>
+		    </div>
+
+		</div></a>
+
+		<a href="https://amzn.to/3Qwm42t" target="_blank"><div class="w3-card-4 w3-white card_produto">
+
+		    <div class="w3-container w3-center">
+		      <img class="img_produto" src="https://images-na.ssl-images-amazon.com/images/I/91M9xPIf10L.jpg" alt="Avatar">
+		    </div>
+
+		    <div class="w3-container w3-center w3-black">
+		      <p>O Hobbit + pôster Capa dura</p>
 		    </div>
 
 		</div></a>
