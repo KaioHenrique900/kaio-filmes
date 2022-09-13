@@ -11,6 +11,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">  <!-- Google Font -->
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">  <!-- Google Icons -->
 
 <link rel="stylesheet" href="styles-amazon.css">
@@ -22,6 +23,16 @@
 </head>
 
 <body>
+
+	<div id="myModal-info" class="modal-info">
+
+		<!-- Modal content -->
+		<div id="modalInfoContent" class="modal-info-content">
+		<span class="close-info">&times;</span>
+			<p id="modalInfoP"><i class="fa fa-info-circle"></i> Os produtos anunciados nesse site fazem parte do programa Associados Amazon. Para que eu receba as comissões referentes aos mesmos, é preciso que você compre pelos meus links. Caso tenha alguma dúvida ou queira comprar algum produto que não esteja presente aqui, entre em contato comigo pelo meu instagram <a href="https://www.instagram.com/kaionezio/" style="color: gray;">@kaionezio</a>.</p>
+		</div>
+
+	</div>
 
 	<div class="w3-bar nav">
 		<img src="images-associados/associados-amazon2.png" class="img-associados w3-right">
@@ -272,6 +283,30 @@
 
 		</div></a>
 	</div>
+
+	<div class="footer tooltip">Desenvolvido por <a href="https://www.instagram.com/kaionezio/" target="_blank">Kaio Nezio <i class="fa fa-external-link-square"></i></a>
+		<span class="tooltiptext">Entre em contato comigo pelo meu instagram em caso de dúvida ou se quiser comprar outro produto usando um link meu.</span>
+	</div>
+
+	<script>
+		// Get the modal
+		var modal = document.getElementById("myModal-info");
+
+		// Get the <span> element that closes the modal
+		var span = document.getElementsByClassName("close-info")[0];
+
+		// When the user clicks on <span> (x), close the modal
+		span.onclick = function() {
+		  modal.style.display = "none";
+		}
+
+		// When the user clicks anywhere outside of the modal, close it
+		window.onclick = function(event) {
+		  if (event.target == modal) {
+		    modal.style.display = "none";
+		  }
+		}
+	</script>
 
 	<!--<div class="image_prime">
 		<img src="images-associados/coda.jpg">
