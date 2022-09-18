@@ -302,6 +302,83 @@
 
 			</div>
 
+
+			<h1>Comédias</h1>
+
+			<div class="row row-responsive">
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AIBDng0uLCd3" target="_blank"><img class="filme-image" src="images/ave-cesar.jpg"></a>
+						<div class="filme-nome">Ave, César!</div>
+						<span class="filme-nota">7/10</span>
+						<span class="filme-ano">2016</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AIBDng0uLCd3', 'Ave, César!', '7', '2016', '1h46','images/avecesar-horizontal.jpg', 'Irmãos Coen', 'Eddie Mannix vive resolvendo os problemas das celebridades de um estúdio de cinema dos anos 50. Para piorar o seu dia, o astro de um filme é sequestrado vestido com as roupas de seu personagem. Se o estúdio não pagar o resgate, será o fim do ator.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://joxise8323.cincopa.com/watch/A4HAcLOLOO68!A0EDMqkKTx4E" target="_blank"><img class="filme-image" src="images/buster-scruggs.jpg"></a>
+						<div class="filme-nome">A Balada de Buster Scruggs</div>
+						<span class="filme-nota">9/10</span>
+						<span class="filme-ano">2018</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://joxise8323.cincopa.com/watch/A4HAcLOLOO68!A0EDMqkKTx4E', 'A Balada de Buster Scruggs', '9', '2018', '2h12','images/buster-scruggs-horizontal.jpg', 'Irmãos Coen', 'A antologia reúne seis histórias de vida e violência que acontecem no Velho Oeste. Acompanhe as aventuras de um pistoleiro, um assaltante de banco, um empresário viajante, um investigador idoso, um vagão de trem e alguns caçadores de recompensas.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AkCD5m0D5R1H" target="_blank"><img class="filme-image" src="images/dr-fantastico.jpg"></a>
+						<div class="filme-nome">Dr. Fantástico</div>
+						<span class="filme-nota">None</span>
+						<span class="filme-ano">1964</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AkCD5m0D5R1H', 'Dr. Fantástico', 'None', '1964', '1h42','images/dr-fantastico-horizontal.jpg', 'Stanley Kubrick', 'Um general insano que acredita que os comunistas planejam dominar o mundo dá ordens para bombardear a Rússia, iniciando processo de guerra nuclear. Ao mesmo tempo, o presidente e seus assessores do Pentágono tentam desesperadamente parar o processo.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AcND5rU2sOnO" target="_blank"><img class="filme-image" src="images/moonrise-kingdom.jpg"></a>
+						<div class="filme-nome">Moonrise Kingdom</div>
+						<span class="filme-nota">8.5/10</span>
+						<span class="filme-ano">2012</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AcND5rU2sOnO', 'Moonrise Kingdom', '8.5', '2012', '1h34','images/moonrise-kingdom-horizontal.jpg', 'Wes Anderson', 'Em 1965, residentes de uma ilha formam uma comunidade aparentemente imune aos males do resto do mundo. Os adolescentes Sam e Suzy se apaixonam e decidem fugir antes da chegada de uma violenta tempestade que ameaça a região.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://u855900.cincopa.com/watch/A4HAcLOLOO68!A8PDJjUrKVn6" target="_blank"><img class="filme-image" src="images/mp-calice.jpg"></a>
+						<div class="filme-nome">M.P.: Em Busca do Cálice Perdido</div>
+						<span class="filme-nota">10/10</span>
+						<span class="filme-ano">1975</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://u855900.cincopa.com/watch/A4HAcLOLOO68!A8PDJjUrKVn6', 'Monty Python: Em Busca do Cálice Sagrado' ,'10', '1975', '1h32','images/mp-calice-horizontal.jpg', 'Terry Gilliam, Terry Jones', 'O Rei Artur sai à procura de cavaleiros que o acompanhem em uma jornada histórica: a busca do Santo Graal. Aparecem então Sir Lancelot, o Bravo; Sir Robin, o Não-Tão-Bravo-Quanto-Sir-Lancelot; Sir Galahad, o Puro, entre outros personagens surreais. Escrita pelo genial grupo de comédia britânico Monty Python, a trama do longa satiriza diversos eventos históricos ocorridos na Idade Média.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AoCDVl0WZGVW" target="_blank"><img class="filme-image" src="images/mp-o-sentido-da-vida.jpg"></a>
+						<div class="filme-nome">M.P.: O Sentido da Vida</div>
+						<span class="filme-nota">8.5/10</span>
+						<span class="filme-ano">1983</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AoCDVl0WZGVW', 'Monty Python: O Sentido da Vida', '8.5', '1983', '1h47','images/mp-o-sentido-da-vida-horizontal.jpg', 'Terry Jones, Terry Gilliam', 'As fases da vida são contadas por meio de vários esboços e canções pelo grupo britânico de comédia. As sete peças de cobertura da vida ao nascer, crescer, guerra, idade média, transplantes de órgãos, velhice e morte. Nem todos os estágios são singulares, pois a primeira, O Milagre do Nascimento é a partir da perspectiva de uma mulher ignorada no trabalho de parto e de um casal católico romano com muitas crianças e a Parte VII: Morte abrange um enterro e o céu.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://yikobe1150.cincopa.com/watch/A4HAcLOLOO68!AsCDULFDLdr2" target="_blank"><img class="filme-image" src="images/nnnn.jpg"></a>
+						<div class="filme-nome">Noivo Neurótico, Noiva Nervosa</div>
+						<span class="filme-nota">10/10</span>
+						<span class="filme-ano">1977</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://yikobe1150.cincopa.com/watch/A4HAcLOLOO68!AsCDULFDLdr2', 'Noivo Neurótico, Noiva Nervosa', '10', '1977', '1h33','images/nnnn-horizontal.jpg', 'Woody Allen', 'Um humorista judeu e divorciado que faz análise há quinze anos, se apaixona por Annie Hall, uma cantora em início de carreira com uma cabeça um pouco complicada. Em pouco tempo eles decidem morar juntos, mas as crises conjugais começam a aparecer e afetar os sentimentos de ambos.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+			</div>
+
 			<center>
 				<div class="ad1">
 					<a href="https://amzn.to/3cFN0it" target="_blank"><img src="https://m.media-amazon.com/images/I/51degAt5CFL._AC_SX569_.jpg" ></a>
