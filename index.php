@@ -300,6 +300,16 @@
 					<div class="filme-more" onclick="showModal('https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AUDDqukX2cfF', 'Shrek 3', '8.5', '2007', '1h33','images/shrek3-horizontal.jpg', 'Chris Miller, Raman Hui', 'Doente em estado terminal, o rei Harold chama Fiona e Shrek para uma conversa sobre a sucessão de seu reinado e o futuro do povo em Tão Tão Distante. Como o genro se recusa a assumir o trono e prefere continuar sua pacata vida no pântano, a única saída é encontrar o primo Artur. Na companhia do Burro e do Gato de Botas, Shrek se encarrega da missão e sai em busca do parente que pode ser seu substituto no trono. Mas, antes de cumprir a tarefa, enfrenta as armações do ambicioso Príncipe Encantado.')"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://siponin817.cincopa.com/watch/A4HAcLOLOO68!AgBD4xVhB_cc" target="_blank"><img class="filme-image" src="images/viva.jpg"></a>
+						<div class="filme-nome">Viva: A Vida É Uma Festa</div>
+						<span class="filme-nota">None</span>
+						<span class="filme-ano">2017</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://siponin817.cincopa.com/watch/A4HAcLOLOO68!AgBD4xVhB_cc', 'Viva: A Vida É Uma Festa', 'None', '2017', '1h45','images/viva-horizontal.jpg', 'Adrian Molina, Lee Unkrich', 'Apesar da proibição da música por gerações de sua família, o jovem Miguel sonha em se tornar um músico talentoso como seu ídolo Ernesto de la Cruz. Desesperado para provar seu talento, Miguel se encontra na deslumbrante e colorida Terra dos Mortos. Depois de conhecer um charmoso malandro chamado Héctor, os dois novos amigos embarcam em uma jornada extraordinária para desvendar a verdadeira história por trás da história da família de Miguel.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
 			</div>
 
 
@@ -375,6 +385,82 @@
 						<span class="filme-ano">1977</span>
 					</div>
 					<div class="filme-more" onclick="showModal('https://yikobe1150.cincopa.com/watch/A4HAcLOLOO68!AsCDULFDLdr2', 'Noivo Neurótico, Noiva Nervosa', '10', '1977', '1h33','images/nnnn-horizontal.jpg', 'Woody Allen', 'Um humorista judeu e divorciado que faz análise há quinze anos, se apaixona por Annie Hall, uma cantora em início de carreira com uma cabeça um pouco complicada. Em pouco tempo eles decidem morar juntos, mas as crises conjugais começam a aparecer e afetar os sentimentos de ambos.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+			</div>
+
+			<h1>Dramas</h1>
+
+			<div class="row row-responsive">
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AsCDFk0lkdAC" target="_blank"><img class="filme-image" src="images/a-lista-de-schindler.jpg"></a>
+						<div class="filme-nome">A Lista de Schindler</div>
+						<span class="filme-nota">None</span>
+						<span class="filme-ano">1993</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AsCDFk0lkdAC', 'A Lista de Schindler', 'None', '1993', '3h15','images/a-lista-de-schindler-horizontal.jpg', 'Steven Spielberg', 'O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio alemão.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AgMDTqEyZHQb" target="_blank"><img class="filme-image" src="images/boyhood.jpg"></a>
+						<div class="filme-nome">BoyHood</div>
+						<span class="filme-nota">10/10</span>
+						<span class="filme-ano">2014</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://yofic27535.cincopa.com/watch/A4HAcLOLOO68!AgMDTqEyZHQb', 'BoyHood', '10', '2014', '2h43','images/boyhood-horizontal.jpg', 'Richard Linklater', 'Acompanhe a vida do garoto Mason durante um período de doze anos, da infância à juventude, analisando seu relacionamento com os pais, suas descobertas, experiências e seus conflitos.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://domolal955.cincopa.com/watch/A4HAcLOLOO68!AgIDbmECArNJ" target="_blank"><img class="filme-image" src="images/12-homens-e-uma-sentenca.jpg"></a>
+						<div class="filme-nome">12 Homens e Uma Sentença</div>
+						<span class="filme-nota">None</span>
+						<span class="filme-ano">1957</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://domolal955.cincopa.com/watch/A4HAcLOLOO68!AgIDbmECArNJ', 'Inside Llewyn Davis', 'None', '1957', '1h36','images/12-homens-e-uma-sentenca-horizontal.jpg', 'Sidney Lumet', 'Seguindo o encerramento do caso do julgamento do assassinato cometido por um adolescente, os membros do júri devem chegar a um consenso sobre qual será o veredito. Enquanto os 12 indivíduos estão fechados em uma sala para tomar uma decisão, onze deles votam pela condenação do réu, porém um deles acredita na inocência do jovem e tenta convencer os outros a mudarem seus votos, dando início a um conflito que ameaça inviabilizar o delicado processo que vai decidir o destino do acusado.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AgHDdjUZa6ch" target="_blank"><img class="filme-image" src="images/inside-llewyn-davis.jpg"></a>
+						<div class="filme-nome">Inside Llewyn Davis</div>
+						<span class="filme-nota">9/10</span>
+						<span class="filme-ano">2013</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AgHDdjUZa6ch', 'Inside Llewyn Davis', '9', '2013', '1h45','images/inside-llewyn-davis-horizontal.jpg', 'Irmãos Coen', 'Llewyn Davis é um cantor e compositor que sonha em viver da sua música. Com o violão nas costas, ele migra de um lugar para o outro na Nova York dos anos 60, sempre vivendo de favor na casa de amigos e outros artistas. Talentoso, mas sem se preocupar muito com o futuro. Nem um pouco confiável, Davis se depara com a oportunidade de viajar na companhia de um consagrado e desagradável artista, Roland, mas nem tudo vai acabar bem nesta nova jornada.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://siponin817.cincopa.com/watch/A4HAcLOLOO68!AgDDRwF_BvRX" target="_blank"><img class="filme-image" src="images/lady-bird.jpg"></a>
+						<div class="filme-nome">Lady Bird</div>
+						<span class="filme-nota">None</span>
+						<span class="filme-ano">2017</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://siponin817.cincopa.com/watch/A4HAcLOLOO68!AgDDRwF_BvRX', 'Lady Bird', 'None', '2017', '1h34','images/lady-bird-horizontal.jpg', 'Greta Gerwig', 'Christine McPherson está no último ano do colégio e o que mais deseja é fazer faculdade longe de Sacramento, Califórnia, ideia rejeitada por sua mãe. Lady Bird, como a garota de forte personalidade exige ser chamada, não se dá por vencida e leva o plano de ir embora adiante mesmo assim. Enquanto a hora não chega, ela se divide entre as obrigações estudantis no colégio católico, o primeiro namoro, típicos rituais de passagem para a vida adulta e inúmeros desentendimentos com a progenitora.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://joxise8323.cincopa.com/watch/A4HAcLOLOO68!AUODrqkMDmKI" target="_blank"><img class="filme-image" src="images/o-resgate-do-soldado-ryan.jpg"></a>
+						<div class="filme-nome">O Resgate do Soldado Ryan</div>
+						<span class="filme-nota">None</span>
+						<span class="filme-ano">1998</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://joxise8323.cincopa.com/watch/A4HAcLOLOO68!AUODrqkMDmKI', 'O Resgate do Soldado Ryan', 'None', '1998', '2h50','images/o-resgate-do-soldado-ryan-horizontal.jpg', 'Steven Spielberg', 'Ao desembarcar na Normandia, no dia 6 de junho de 1944, o Capitão Miller recebe a missão de comandar um grupo do Segundo Batalhão para o resgate do soldado James Ryan, o caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.')"><div class="material-symbols-outlined">expand_more</div></div>
+				</div>
+
+				<div class="content">
+					<div class="filme-content">
+						<a href="https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AoPDCiEIOfnN" target="_blank"><img class="filme-image" src="images/silencio.jpg"></a>
+						<div class="filme-nome">Silêncio</div>
+						<span class="filme-nota">None</span>
+						<span class="filme-ano">2016</span>
+					</div>
+					<div class="filme-more" onclick="showModal('https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AoPDCiEIOfnN', 'Silêncio' ,'None', '2016', '2h41','images/silencio-horizontal.jpg', 'Martin Scorsese', 'No século 17, dois padres jesuítas portugueses viajaram para o Japão em uma tentativa de localizar seu mentor, que, segundo rumores, havia cometido apostasia e propagado o catolicismo.')"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
 
 			</div>
