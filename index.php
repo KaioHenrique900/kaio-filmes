@@ -124,7 +124,23 @@
 
 			<h1>Melhores Filmes</h1>
 
-			<div class="row">
+			<?php 
+				foreach($filme in $filmes){
+					$link = $filme['linkFilme']);
+					$capa = $filme['capaFilme']);
+					$titulo = $filme['tituloFilme']);
+					$nota = $filme['notaFilme']);
+					$ano = $filme['anoFilme']);
+					
+					?>
+					<script>document.getElementById("melhoresCat").innerHTML += "<div class='content'><div class='filme-content'><a href='<?php echo $link ?>' target='_blank'><img class='filme-image' src='images/<?php echo $capa ?>'></a><div class='filme-nome'><?php echo $titulo ?></div><span class='filme-nota'><?php echo $nota ?>/10</span><span class='filme-ano'><?php echo $ano ?></span></div>";
+					</script>
+					<?php
+				}
+			?>
+			
+			<div id="melhoresCat" class="row">
+				<!--
 				<div class="content">
 					<div class="filme-content">
 						<a href="<?php print_r($filmes[0]['linkFilme']); ?>" target="_blank"><img class="filme-image" src="images/<?php print_r($filmes[0]['capaFilme']); ?>"></a>
@@ -223,9 +239,9 @@
 						<span class="filme-ano">2022</span>
 					</div>
 					<div class="filme-more" onclick="showModal('https://kaioneziofilmes.cincopa.com/watch/A4HAcLOLOO68!AcDDgx19JUUT', 'Tudo Em Todo Lugar Ao Mesmo Tempo', '10', '2022', '2h19','images/tetlamt-horizontal.jpg', 'Daniel Kwan, Daniel Scheinert', 'Uma ruptura interdimensional bagunça a realidade e uma inesperada heroína precisa usar seus novos poderes para lutar contra os perigos bizarros do multiverso.')"><div class="material-symbols-outlined">expand_more</div></div>
-				</div>
+				</div> -->
 
-			</div>
+			</div> 
 
 			<h1>Animações</h1>
 
