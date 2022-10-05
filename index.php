@@ -134,8 +134,7 @@
 						$titulo = $filme['tituloFilme'];
 						$nota = $filme['notaFilme'];
 						$ano = $filme['anoFilme'];
-						echo $link;
-						echo "<div class='content'><div class='filme-content'><a href='".$link."' target='_blank'><img class='filme-image' src='images/".$capa."'></a><div class='filme-nome'>".$titulo."</div><span class='filme-nota'>".$nota."/10</span><span class='filme-ano'>".$ano."</span></div>";
+						echo "<div class='content'><div class='filme-content'><a href='".$link."' target='_blank'><img class='filme-image' src='images/".$capa."'></a><div class='filme-nome'>".$titulo."</div><span class='filme-nota'>".$nota."/10</span><span class='filme-ano'>".$ano."</span></div></div>";
 						
 					}
 				?>
