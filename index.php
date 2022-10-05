@@ -131,7 +131,7 @@
 					$titulo = $filme['tituloFilme'];
 					$nota = $filme['notaFilme'];
 					$ano = $filme['anoFilme'];
-					
+					echo $link;
 					?>
 					<script>document.getElementById("melhoresCat").innerHTML += "<div class='content'><div class='filme-content'><a href='<?php echo $link ?>' target='_blank'><img class='filme-image' src='images/<?php echo $capa ?>'></a><div class='filme-nome'><?php echo $titulo ?></div><span class='filme-nota'><?php echo $nota ?>/10</span><span class='filme-ano'><?php echo $ano ?></span></div>";
 					</script>
