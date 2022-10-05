@@ -34,6 +34,7 @@ if(pg_num_rows($query) > 0){
 		$filmes[]=$filme;
 	}
 }
+print_r($filmes);
 
 pg_close($conn);
 ?>
