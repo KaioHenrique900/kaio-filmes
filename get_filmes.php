@@ -8,7 +8,6 @@ $filmes = Array();
 if(pg_num_rows($query) > 0){
 	while ($row = pg_fetch_array($query)) {
 		$filme = Array();
-		$row = pg_fetch_array($query);
 
 		$idFilme=$row["idFilme"];
 		$filme['idFilme']=$idFilme;
