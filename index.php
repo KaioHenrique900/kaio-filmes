@@ -1,7 +1,6 @@
 <?php
 	include 'header.php';
-	include 'bd_connect';
-	
+	include 'get_filmes.php';
 ?>
 	<head>
 
@@ -109,6 +108,10 @@
 			  setTimeout(showSlides, 5000); // Change image every 2 seconds
 			}
 		</script>
+
+		<?php
+			echo $filmes[0];
+		?>
 		
 		<div class="content-main">
 			<center>
