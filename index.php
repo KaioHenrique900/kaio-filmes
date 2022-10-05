@@ -143,10 +143,10 @@
 				<!--
 				<div class="content">
 					<div class="filme-content">
-						<a href="<?php print_r($filmes[0]['linkFilme']); ?>" target="_blank"><img class="filme-image" src="images/<?php print_r($filmes[0]['capaFilme']); ?>"></a>
-						<div class="filme-nome"><?php print_r($filmes[0]['tituloFilme']); ?></div>
-						<span class="filme-nota"><?php print_r($filmes[0]['notaFilme']); ?>/10</span>
-						<span class="filme-ano"><?php print_r($filmes[0]['anoFilme']); ?></span>
+						<a href="" target="_blank"><img class="filme-image" src="images/"></a>
+						<div class="filme-nome"></div>
+						<span class="filme-nota">/10</span>
+						<span class="filme-ano"></span>
 					</div>
 					<div class="filme-more" onclick="showModal('https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AEFDgmUFT-oL', '2001: Uma Odisséia No Espaço', '10', '1969', '2h19','images/2001-uma-odisseia-no-espaco-horizontal.jpg', 'Stanley Kubrick', 'Uma estrutura imponente preta fornece uma conexão entre o passado e o futuro nesta adaptação enigmática de um conto reverenciado de ficção científica do autor Arthur C. Clarke. Quando o Dr. Dave Bowman e outros astronautas são enviados para uma misteriosa missão, os chips de seus computadores começam a mostrar um comportamento estranho, levando a um tenso confronto entre homem e máquina que resulta em uma viagem alucinante no espaço e no tempo.')"><div class="material-symbols-outlined">expand_more</div></div>
 				</div>
