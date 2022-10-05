@@ -125,7 +125,7 @@
 			<h1>Melhores Filmes</h1>
 
 			<?php 
-				foreach($filmes as $filme){
+				foreach($filmes as &$filme){
 					$link = $filme['linkFilme'];
 					$capa = $filme['capaFilme'];
 					$titulo = $filme['tituloFilme'];
