@@ -110,7 +110,7 @@
 		</script>
 
 		<?php
-			echo $filmes[0];
+			print_r($filmes[0]);
 		?>
 		
 		<div class="content-main">
