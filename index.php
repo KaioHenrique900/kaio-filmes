@@ -1,5 +1,7 @@
 <?php
 	include 'header.php';
+	include 'bd_connect';
+	
 ?>
 	<head>
 
