@@ -246,7 +246,20 @@
 
 			<div class="row row-responsive">
 
-				<div class="content">
+				<?php 
+					$filmes = getAnimacoes();
+					foreach($filmes as &$filme){
+						$link = $filme['linkFilme'];
+						$capa = $filme['capaFilme'];
+						$titulo = $filme['tituloFilme'];
+						$nota = $filme['notaFilme'];
+						$ano = $filme['anoFilme'];
+						echo "<div class='content'><div class='filme-content'><a href='".$link."' target='_blank'><img class='filme-image' src='images/".$capa."'></a><div class='filme-nome'>".$titulo."</div><span class='filme-nota'>".$nota."/10</span><span class='filme-ano'>".$ano."</span></div><div class='filme-more'><div class='material-symbols-outlined'>expand_more</div></div></div>";
+						
+					}
+				?>
+
+				<!--<div class="content">
 					<div class="filme-content">
 						<a href="https://brumbram20.cincopa.com/watch/A4HAcLOLOO68!AgHDyw0fq18k" target="_blank"><img class="filme-image" src="images/homem-aranha-no-aranhaverso.jpg"></a>
 						<div class="filme-nome">Homem-Aranha No Aranhaverso</div>
@@ -324,7 +337,7 @@
 						<span class="filme-ano">2017</span>
 					</div>
 					<div class="filme-more" onclick="showModal('https://siponin817.cincopa.com/watch/A4HAcLOLOO68!AgBD4xVhB_cc', 'Viva: A Vida É Uma Festa', 'None', '2017', '1h45','images/viva-horizontal.jpg', 'Adrian Molina, Lee Unkrich', 'Apesar da proibição da música por gerações de sua família, o jovem Miguel sonha em se tornar um músico talentoso como seu ídolo Ernesto de la Cruz. Desesperado para provar seu talento, Miguel se encontra na deslumbrante e colorida Terra dos Mortos. Depois de conhecer um charmoso malandro chamado Héctor, os dois novos amigos embarcam em uma jornada extraordinária para desvendar a verdadeira história por trás da história da família de Miguel.')"><div class="material-symbols-outlined">expand_more</div></div>
-				</div>
+				</div>-->
 
 			</div>
 
@@ -333,7 +346,20 @@
 
 			<div class="row row-responsive">
 
-				<div class="content">
+				<?php 
+					$filmes = getComedias();
+					foreach($filmes as &$filme){
+						$link = $filme['linkFilme'];
+						$capa = $filme['capaFilme'];
+						$titulo = $filme['tituloFilme'];
+						$nota = $filme['notaFilme'];
+						$ano = $filme['anoFilme'];
+						echo "<div class='content'><div class='filme-content'><a href='".$link."' target='_blank'><img class='filme-image' src='images/".$capa."'></a><div class='filme-nome'>".$titulo."</div><span class='filme-nota'>".$nota."/10</span><span class='filme-ano'>".$ano."</span></div><div class='filme-more'><div class='material-symbols-outlined'>expand_more</div></div></div>";
+						
+					}
+				?>
+
+				<!--<div class="content">
 					<div class="filme-content">
 						<a href="https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AIBDng0uLCd3" target="_blank"><img class="filme-image" src="images/ave-cesar.jpg"></a>
 						<div class="filme-nome">Ave, César!</div>
@@ -401,7 +427,7 @@
 						<span class="filme-ano">1977</span>
 					</div>
 					<div class="filme-more" onclick="showModal('https://yikobe1150.cincopa.com/watch/A4HAcLOLOO68!AsCDULFDLdr2', 'Noivo Neurótico, Noiva Nervosa', '10', '1977', '1h33','images/nnnn-horizontal.jpg', 'Woody Allen', 'Um humorista judeu e divorciado que faz análise há quinze anos, se apaixona por Annie Hall, uma cantora em início de carreira com uma cabeça um pouco complicada. Em pouco tempo eles decidem morar juntos, mas as crises conjugais começam a aparecer e afetar os sentimentos de ambos.')"><div class="material-symbols-outlined">expand_more</div></div>
-				</div>
+				</div>-->
 
 			</div>
 
@@ -409,7 +435,20 @@
 
 			<div class="row row-responsive">
 
-				<div class="content">
+				<?php 
+					$filmes = getDramas();
+					foreach($filmes as &$filme){
+						$link = $filme['linkFilme'];
+						$capa = $filme['capaFilme'];
+						$titulo = $filme['tituloFilme'];
+						$nota = $filme['notaFilme'];
+						$ano = $filme['anoFilme'];
+						echo "<div class='content'><div class='filme-content'><a href='".$link."' target='_blank'><img class='filme-image' src='images/".$capa."'></a><div class='filme-nome'>".$titulo."</div><span class='filme-nota'>".$nota."/10</span><span class='filme-ano'>".$ano."</span></div><div class='filme-more'><div class='material-symbols-outlined'>expand_more</div></div></div>";
+						
+					}
+				?>
+
+				<!--<div class="content">
 					<div class="filme-content">
 						<a href="https://lafobo1015.cincopa.com/watch/A4HAcLOLOO68!AsCDFk0lkdAC" target="_blank"><img class="filme-image" src="images/a-lista-de-schindler.jpg"></a>
 						<div class="filme-nome">A Lista de Schindler</div>
@@ -477,7 +516,7 @@
 						<span class="filme-ano">2016</span>
 					</div>
 					<div class="filme-more" onclick="showModal('https://rabevo9820.cincopa.com/watch/A4HAcLOLOO68!AoPDCiEIOfnN', 'Silêncio' ,'None', '2016', '2h41','images/silencio-horizontal.jpg', 'Martin Scorsese', 'No século 17, dois padres jesuítas portugueses viajaram para o Japão em uma tentativa de localizar seu mentor, que, segundo rumores, havia cometido apostasia e propagado o catolicismo.')"><div class="material-symbols-outlined">expand_more</div></div>
-				</div>
+				</div> -->
 
 			</div>
 
