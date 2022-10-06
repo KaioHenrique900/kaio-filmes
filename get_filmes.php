@@ -2,7 +2,7 @@
 
 include 'bd_connect.php';
 
-$query = pg_query($conn, "SELECT * FROM filmes");
+$query = pg_query($conn, "SELECT * FROM filmes join filmes_categorias on filmes_categorias.idCat = 14");
 $filmes = Array();
 
 if(pg_num_rows($query) > 0){
@@ -33,7 +33,6 @@ if(pg_num_rows($query) > 0){
 		$filmes[]=$filme;
 	}
 }
-print_r($filmes);
 
 pg_close($conn);
 ?>
