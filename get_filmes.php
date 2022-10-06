@@ -3,7 +3,7 @@
 include 'bd_connect.php';
 
 function getMelhores(){
-	$query = pg_query($conn, 'SELECT * FROM filmes as f inner join filmes_categorias as fc on f."idFilme" = fc."fk_idFilme" and fc."fk_idCat" = 14');
+	$query = pg_query($this->$conn, 'SELECT * FROM filmes as f inner join filmes_categorias as fc on f."idFilme" = fc."fk_idFilme" and fc."fk_idCat" = 14');
 	$filmes = Array();
 
 	if(pg_num_rows($query) > 0){
