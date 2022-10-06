@@ -137,7 +137,7 @@ function getComedias(){
 	pg_close($conn);
 }
 
-function getComedias(){
+function getDramas(){
 	$host="ec2-3-219-229-143.compute-1.amazonaws.com";
 	$port="5432";
 	$user="lffjupovuwkowk";
