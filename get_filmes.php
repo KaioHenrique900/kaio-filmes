@@ -40,6 +40,9 @@ function getMelhores(){
 			$linkFilme=$row['linkFilme'];
 			$filme['linkFilme']=$linkFilme;
 
+			$sinopseFilme=$row['sinopseFilme'];
+			$filme['sinopseFilme']=$sinopseFilme;
+
 			$filmes[]=$filme;
 		}
 	}
