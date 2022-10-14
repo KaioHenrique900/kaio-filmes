@@ -34,6 +34,9 @@ function getMelhores(){
 			$capaFilme=$row['capaFilme'];
 			$filme['capaFilme']=$capaFilme;
 
+			$capaFilme=$row['capaHFilme'];
+			$filme['capaFilme']=$capaFilme;
+
 			$duracaoFilme=$row['duracaoFilme'];
 			$filme['duracaoFilme']=$duracaoFilme;
 
