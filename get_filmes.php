@@ -85,6 +85,9 @@ function getAnimacoes(){
 			$capaFilme=$row['capaFilme'];
 			$filme['capaFilme']=$capaFilme;
 
+			$capaFilme=$row['capaHFilme'];
+			$filme['capaHFilme']=$capaFilme;
+
 			$duracaoFilme=$row['duracaoFilme'];
 			$filme['duracaoFilme']=$duracaoFilme;
 
@@ -130,6 +133,9 @@ function getComedias(){
 			$capaFilme=$row['capaFilme'];
 			$filme['capaFilme']=$capaFilme;
 
+			$capaFilme=$row['capaHFilme'];
+			$filme['capaHFilme']=$capaFilme;
+
 			$duracaoFilme=$row['duracaoFilme'];
 			$filme['duracaoFilme']=$duracaoFilme;
 
@@ -174,6 +180,9 @@ function getDramas(){
 
 			$capaFilme=$row['capaFilme'];
 			$filme['capaFilme']=$capaFilme;
+
+			$capaFilme=$row['capaHFilme'];
+			$filme['capaHFilme']=$capaFilme;
 
 			$duracaoFilme=$row['duracaoFilme'];
 			$filme['duracaoFilme']=$duracaoFilme;
