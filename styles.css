@@ -254,9 +254,9 @@ a{
 }
 
 .row::-webkit-scrollbar {
-  width: 10px;
-  height: 5px;
-  margin-top: 2px;
+  width: 20px;
+  height: 10px;
+  margin-top: 5px;
 }
 
 /* Track */
