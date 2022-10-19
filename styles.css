@@ -646,4 +646,14 @@ a{
 	.row-responsive{
 		margin-bottom: 15px;
 	}
+
+	.row::-webkit-scrollbar {
+    display: none;
+	}
+
+	/* Hide scrollbar for IE, Edge and Firefox */
+	.row {
+	  -ms-overflow-style: none;  /* IE and Edge */
+	  scrollbar-width: none;  /* Firefox */
+	}
 }
