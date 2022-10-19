@@ -12,7 +12,7 @@ function getMelhores(){
 	$conn = pg_connect("host = ec2-3-219-229-143.compute-1.amazonaws.com port = 5432 dbname = d9ubq55up557s user = lffjupovuwkowk password = 9d5ed4768450704643a229dc1dc5329bd6a7b339eedffd464875a9398b678666 sslmode=require") or
 	die ("Não foi possível conectar ao servidor PostGreSQL");
 
-	$query = pg_query($conn, 'SELECT * FROM filmes as f inner join filmes_categorias as fc on f."idFilme" = fc."fk_idFilme" and fc."fk_idCat" = 14' order by f."nomeFilme");
+	$query = pg_query($conn, 'SELECT * FROM filmes as f inner join filmes_categorias as fc on f."idFilme" = fc."fk_idFilme" and fc."fk_idCat" = 14 order by f."nomeFilme"');
 	$filmes = Array();
 
 	if(pg_num_rows($query) > 0){
