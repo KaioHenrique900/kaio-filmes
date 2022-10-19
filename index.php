@@ -250,7 +250,7 @@
 			<div class="row row-responsive">
 
 				<?php 
-					$filmes = getAnimacoes();
+					$filmes = getFilmes(2);
 					foreach($filmes as &$filme){
 						$link = $filme['linkFilme'];
 						$capa = $filme['capaFilme'];
@@ -353,7 +353,7 @@
 			<div class="row row-responsive">
 
 				<?php 
-					$filmes = getComedias();
+					$filmes = getFilmes(4);
 					foreach($filmes as &$filme){
 						$link = $filme['linkFilme'];
 						$capa = $filme['capaFilme'];
@@ -445,7 +445,7 @@
 			<div class="row row-responsive">
 
 				<?php 
-					$filmes = getDramas();
+					$filmes = getFilmes(5);
 					foreach($filmes as &$filme){
 						$link = $filme['linkFilme'];
 						$capa = $filme['capaFilme'];
