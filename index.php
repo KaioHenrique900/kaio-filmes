@@ -128,7 +128,7 @@
 			
 			<div id="melhoresCat" class="row">
 				<?php 
-					$filmes = getMelhores();
+					$filmes = getFilmes(14);
 					foreach($filmes as &$filme){
 						$link = $filme['linkFilme'];
 						$capa = $filme['capaFilme'];
