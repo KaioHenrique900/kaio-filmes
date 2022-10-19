@@ -254,8 +254,8 @@ a{
 }
 
 .row::-webkit-scrollbar {
-  width: 20px;
-  height: 10px;
+  width: 30px;
+  height: 8px;
   margin-top: 5px;
 }
 
