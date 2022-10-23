@@ -1,6 +1,7 @@
 <?php
 	include 'header.php';
 	include 'get_filmes.php';
+	include 'get_categorias.php';
 ?>
 	<head>
 
