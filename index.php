@@ -26,13 +26,22 @@
 		  	<div class="dropdown">
 		  		<button class="dropbtn">Gêneros <i class='fa fa-angle-down'></i></button>
 		  		<div class="dropdown-content">
-			  		<a href="#">Ação</a>
+		  			<?php
+		  				$cats = getCategorias();
+		  				foreach($cats as &$cat){
+							$titulo = $cat['tituloCat'];
+
+							echo "<a href='#'>".$titulo."</a>";
+							
+						}
+		  			?>
+			  		<!--<a href="#">Ação</a>
 	    			<a href="#">Animação</a>
 	    			<a href="#">Comédia</a>
 	    			<a href="#">Drama</a>
 	    			<a href="#">Fantasia e Ficção Científica</a>
 	    			<a href="#">Romance</a>
-	    			<a href="#">Suspense e Terror</a>
+	    			<a href="#">Suspense e Terror</a>-->
 			  	</div>
 			</div>
 
