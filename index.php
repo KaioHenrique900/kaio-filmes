@@ -11,16 +11,6 @@
 
 	<body>
 
-		<div id="myModal-info" class="modal-info">
-
-		  <!-- Modal content -->
-		  <div id="modalInfoContent" class="modal-info-content">
-		    <span class="close-info">&times;</span>
-			  <p id="modalInfoP"><i class="fa fa-info-circle"></i> Todos os anúncios presentes neste site são de programas de afiliados que o desenvolvedor faz parte.</p>
-		  </div>
-
-		</div>
-
 		<div class="topnav" id="myTopnav">
 		  	<a href="index.php" class="active">Home</a>
 		  	
