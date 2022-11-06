@@ -45,14 +45,6 @@
 			  	</div>
 			</div>
 
-		  	<div class="dropdown">
-			  <button href="#patrocinadores" class="dropbtn">Patrocinadores <i class='fa fa-angle-down'></i></button>
-			  <div class="dropdown-content">
-			  	<a href="associados-amazon.php">Associados Amazon</a>
-	    		<a href="https://www.magazinevoce.com.br/magazinekaiosilvanezio/" target="_blank">Meu Parceiro Magalu</a>
-			  </div>
-			</div>
-
 		  <a href="javascript:void(0);" class="icon" onclick="responsiveTopNav()">
 		    <i id="topnavControl" class="fa fa-bars"></i>
 		  </a>
