@@ -120,22 +120,9 @@
 		</script>
 		
 		<div class="content-main">
-			<center>
-				<div class="ad1" >
-					<a href="https://amzn.to/3q6hspa" target="_blank"><img src="https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SY355_.jpg" ></a>
-					<a href="https://amzn.to/3q6hspa" class="title-product" target="_blank">Echo Dot (4ª Geração): Smart Speaker com Alexa | Música, informação e Casa Inteligente - Cor Preta</a>
-				</div>
-
-				<div class="ad1" >
-					<a href="https://amzn.to/3cPjRBE" target="_blank"><img src="https://m.media-amazon.com/images/I/71-k35bQj4L._AC_SL1500_.jpg" ></a>
-					<a href="https://amzn.to/3cPjRBE" class="title-product" target="_blank">PlayStation®5 + Horizon Forbidden West</a>
-				</div>
-			</center>
-
+			
 			<h1>Melhores Filmes</h1>
 
-			
-			
 			<div id="melhoresCat" class="row">
 				<?php 
 					$filmes = getFilmes(14);
@@ -221,18 +208,6 @@
 				?>
 
 			</div>
-
-			<center>
-				<div class="ad1">
-					<a href="https://amzn.to/3cFN0it" target="_blank"><img src="https://m.media-amazon.com/images/I/51degAt5CFL._AC_SX569_.jpg" ></a>
-					<a href="https://amzn.to/3cFN0it" class="title-product" target="_blank">Fire TV Stick | Streaming em Full HD com Alexa | Com Controle Remoto por Voz com Alexa (inclui comandos de TV)</a>
-				</div>
-
-				<div class="ad1">
-					<a href="https://amzn.to/3QapnMI" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51kYAhF49CL._SX352_BO1,204,203,200_.jpg" ></a>
-					<a href="https://amzn.to/3QapnMI" class="title-product" target="_blank">Drácula - Dark Edition: Edição limitada para caçadores de vampiros Capa dura</a>
-				</div>
-			</center>
 
 		</div>
 
