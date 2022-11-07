@@ -108,7 +108,7 @@
 					$filmes = getFilmes($cats[$i]["idCat"]);
 
 					if(count($filmes) > 0){
-						
+
 						echo "<h1>".$cats[$i]["tituloCat"]."</h1><div class='row row-responsive'>";
 
 						foreach($filmes as &$filme){
@@ -143,6 +143,7 @@
 		  <div id="modalcontent" class="modal-content">
 		    <span class="close">&times;</span>
 		    <span class="modal-nota"><span class="fa fa-star"></span> <span id="notaFilme"></span></span>
+		    <span class="modal-nota">Classificar</span>
 		    <a id="linkFilme" href="" target="_blank"><img id="imageFilme" class="modal-img" src=""></a>
 		    <div class="modal-body">
 		      <center><h2 id="nomeFilme" class="modal-titulo"></h2></center>  <!-- Modificar o center -->
