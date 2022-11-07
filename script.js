@@ -9,3 +9,7 @@ function responsiveTopNav() {
     c.className = "fa fa-bars";
   }
 }
+
+function classificar(){
+  document.getElementById("direcaoFilme").innerHTML = "Tarantino";
+}
