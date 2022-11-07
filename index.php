@@ -143,7 +143,7 @@
 		  <div id="modalcontent" class="modal-content">
 		    <span class="close">&times;</span>
 		    <span class="modal-nota"><span class="fa fa-star"></span> <span id="notaFilme"></span></span>
-		    <span class="modal-nota">Classificar</span>
+		    <span class="modal-classificar">Classificar</span>
 		    <a id="linkFilme" href="" target="_blank"><img id="imageFilme" class="modal-img" src=""></a>
 		    <div class="modal-body">
 		      <center><h2 id="nomeFilme" class="modal-titulo"></h2></center>  <!-- Modificar o center -->
