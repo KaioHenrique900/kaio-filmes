@@ -22,6 +22,9 @@ function getFilmes($gen){
 			$idFilme=$row["idFilme"];
 			$filme['idFilme']=$idFilme;
 
+			$idCat=$row["idCat"];
+			$filme['fk_idCat']=$idCat;
+
 			$tituloFilme=$row['tituloFilme'];
 			$filme['tituloFilme']=$tituloFilme;
 
@@ -52,6 +55,5 @@ function getFilmes($gen){
 	return $filmes;
 	pg_close($conn);
 }
-
 
 ?>
