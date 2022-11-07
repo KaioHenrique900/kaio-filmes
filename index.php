@@ -107,7 +107,7 @@
 
 					echo "<h1>".$cats[$i]["tituloCat"]."</h1><div class='row row-responsive'>";
 
-					$filmes = getFilmes($cats[$i][$idCat]);
+					$filmes = getFilmes($cats[$i]["idCat"]);
 
 					foreach($filmes as &$filme){
 						$link = $filme['linkFilme'];
