@@ -39,7 +39,7 @@
 		  	<div class="dropdown">
 		  		<button class="dropbtn">Destaques <i class='fa fa-angle-down'></i></button>
 		  		<div class="dropdown-destaques-content">
-			  		<div class="destaques-item"><img src="images/tetlamt-horizontal.jpg" class="destaques-img"><div class="destaques-title">Melhores Filmes de 2022</div></div>
+			  		<a href="home.php"><div class="destaques-item"><img src="images/tetlamt-horizontal.jpg" class="destaques-img"><div class="destaques-title">Melhores Filmes de 2022</div></div></a>
 			  		<div class="destaques-item"><img src="images/red-horizontal.jpg" class="destaques-img"><div class="destaques-title">Animações da Disney e Pixar</div></div>
 	    			<div class="destaques-item"><img src="images/shrek-horizontal.jpg" class="destaques-img"><span class="destaques-title">Animações da DreamWorks</span></div>
 			  	</div>
